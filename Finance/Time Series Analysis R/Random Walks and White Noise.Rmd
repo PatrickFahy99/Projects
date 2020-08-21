@@ -1,0 +1,23 @@
+set.seed(1)
+acf(rnorm(1000))
+
+var(rnorm(1000, mean=0, sd=1))
+
+w <- rnorm(1000)
+x <- replicate(1000, 0)
+for (t in 2:1000) x[t] <- x[t-1] + w[t]
+plot(x, type="l")
+
+acf(x)
+
+acf(diff(x)) # acf of the difference of subsequent terms in x
+
+require('quantmod')
+getSymbols('MSFT', src='yahoo')
+tail(MSFT)
+
+acf(diff(Ad(MSFT)), na.action = na.omit) # Last bit says to omit missing values, also Ad is the adjusted returns
+
+getSymbols('^GSPC', src='yahoo')
+acf(diff(Ad(GSPC)), na.action = na.omit)
+

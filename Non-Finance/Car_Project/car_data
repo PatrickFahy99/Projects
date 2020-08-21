@@ -1,0 +1,2242 @@
+,makes,Price,Rating,Year,Type,Miles,Litres,BHP,Transmission,Fuel
+0,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+1,Toyota,£590,,2001,Coupe,"158,000 miles",1.8L,140BHP,Manual,Petrol
+2,Honda,"£1,199",,2005,Hatchback,"109,111 miles",1.4L,82BHP,Manual,Petrol
+3,Peugeot,£980,,2005,Hatchback,"85,118 miles",1.1L,60BHP,Manual,Petrol
+4,Volkswagen,£895,,2003,Estate,"127,677 miles",1.9L,130BHP,Manual,Diesel
+5,Volkswagen,"£1,490",,2009,Hatchback,"136,600 miles",1.2L,59BHP,Manual,Petrol
+6,Suzuki,"£1,495",,2005,Hatchback,"91,766 miles",1.3L,91BHP,Manual,Petrol
+7,Vauxhall,"£1,499",,2009,Hatchback,"93,193 miles",1.2L,79BHP,Manual,Petrol
+8,Saab,£500,,2007,Estate,"107,000 miles",2.0L,207BHP,Automatic,Petrol
+9,Honda,"£1,250",,2007,Hatchback,"93,000 miles",1.4L,82BHP,Manual,Petrol
+10,Renault,"£2,333",Fair price,2007,MPV,"42,000 miles",1.6L,111BHP,Automatic,Petrol
+11,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+12,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+13,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+14,Daihatsu,£950,,2004,Convertible,"63,000 miles",0.66L,67BHP,Manual,Petrol
+15,Fiat,"£1,795",Great price,2010,Hatchback,"85,000 miles",1.4L,78PS,Manual,Petrol
+16,Bmw,£850,,2000,Saloon,"124,812 miles",2.0L,148BHP,Automatic,Petrol
+17,Hyundai,£890,,2007,Hatchback,"55,083 miles",1.1L,62BHP,Manual,Petrol
+18,Bmw,"£1,250",,2002,Estate,"127,000 miles",3.0L,231BHP,Manual,Petrol
+19,Skoda,£995,,2005,Hatchback,"114,000 miles",2.0L,150BHP,Manual,Petrol
+20,Toyota,"£2,999",Lower price,2012,Saloon,"144,765 miles",2.0L,126BHP,Manual,Diesel
+21,Bmw,"£1,850",Great price,2009,Hatchback,"160,000 miles",2.0L,143BHP,Manual,Diesel
+22,Vauxhall,£890,,2006,Hatchback,"115,000 miles",1.6L,103BHP,Manual,Petrol
+23,Volkswagen,"£4,450",Lower price,2007,SUV,"123,098 miles",3.0L,222BHP,Automatic,Diesel
+24,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+25,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+26,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+27,Volkswagen,"£4,695",Good price,2012,Hatchback,"80,536 miles",1.2L,70BHP,Manual,Petrol
+28,Peugeot,£596,,2006,Hatchback,"120,000 miles",1.6L,90BHP,Manual,Diesel
+29,Rover,"£3,500",,1992,Saloon,"81,000 miles",1.3L,62BHP,Manual,Petrol
+30,Vauxhall,£795,,"
+
+CAT
+
+
+Write-off",2006 (06 reg),MPV,"82,000 miles",2.2L,147BHP,Automatic
+31,Citroen,"£3,480",Good price,2011,Hatchback,"115,300 miles",1.6L,197BHP,Manual,Petrol
+32,Vauxhall,"£1,895",Fair price,2007,MPV,"91,000 miles",1.8L,138BHP,Manual,Petrol
+33,Vauxhall,£800,,"
+
+CAT
+
+
+Write-off",2009 (58 reg),MPV,"93,000 miles",1.6L,103BHP,Manual
+34,Hyundai,£890,,2005,SUV,"172,000 miles",2.9L,161BHP,Automatic,Diesel
+35,Saab,"£1,795",Lower price,2009,Saloon,"135,000 miles",1.9L,178BHP,Manual,Diesel
+36,Volkswagen,"£1,958",,2006,Hatchback,"65,290 miles",1.4L,74BHP,Manual,Petrol
+37,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+38,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+39,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,First year road tax included,Full manufacturer warranty
+40,Vauxhall,"£1,795",Fair price,2007,Hatchback,"94,000 miles",1.2L,79BHP,Manual,Petrol
+41,Vauxhall,"£2,995",Lower price,2011,Hatchback,"65,000 miles",2.0L,158BHP,Manual,Diesel
+42,Mercedes-Benz,"£1,390",,"
+
+CAT
+
+
+Write-off",2005 (54 reg),Saloon,"74,000 miles",2.1L,121BHP,Automatic
+43,Vauxhall,£595,,2003,MPV,"123,500 miles",1.8L,123BHP,Manual,Petrol
+44,Hyundai,"£1,495",,2010,Hatchback,"71,292 miles",1.2L,76BHP,Manual,Petrol
+45,Renault,"£2,495",,2012,Hatchback,"70,258 miles",1.5L,110BHP,Manual,Diesel
+46,Ford,"£1,499",,2008,Hatchback,"112,700 miles",1.6L,99BHP,Manual,Petrol
+47,Vauxhall,£700,,"
+
+CAT
+
+
+Write-off",2006 (55 reg),MPV,"107,000 miles",1.8L,138BHP,Manual
+48,Ford,"£1,200",,2007,Hatchback,"96,500 miles",1.2L,Manual,Petrol,
+49,Vauxhall,"£2,480",Lower price,2008,Hatchback,"33,300 miles",1.2L,79BHP,Manual,Petrol
+50,Mercedes-Benz,"£30,990",Good price,2019,Convertible,"6,940 miles",2.0L,258PS,Automatic,Petrol
+51,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,First year road tax included,Full manufacturer warranty
+52,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+53,Vauxhall,"£1,650",,2011,Hatchback,"91,000 miles",1.8L,138BHP,Manual,Petrol
+54,Citroen,"£1,995",Great price,2010,Hatchback,"79,000 miles",1.0L,68BHP,Manual,Petrol
+55,Ford,£550,,2007,Hatchback,"105,030 miles",1.6L,99BHP,Manual,Petrol
+56,Ford,£895,,2002,Hatchback,"87,293 miles",113BHP,Manual,Petrol,1 owner
+57,Nissan,£850,,2008,Hatchback,"139,000 miles",1.5L,105BHP,Manual,Diesel
+58,Vauxhall,"£2,000",Great price,2009,Hatchback,"131,500 miles",1.6L,115PS,Manual,Petrol
+59,Volkswagen,£600,,2001,Saloon,"92,308 miles",2.0L,115BHP,Manual,Petrol
+60,Vauxhall,£790,,2001,Hatchback,"64,469 miles",1.2L,74BHP,Manual,Petrol
+61,Chevrolet,£590,,2005,Hatchback,"89,000 miles",1.6L,108BHP,Manual,Petrol
+62,Fiat,"£1,480",,2011,Hatchback,"122,634 miles",1.6L,122PS,Manual,Diesel
+63,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+64,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+65,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+66,Renault,£809,,2009,Hatchback,"113,000 miles",1.2L,75BHP,Manual,Petrol
+67,Hyundai,£600,,2006,Hatchback,"97,000 miles",1.1L,65BHP,Manual,Petrol
+68,Mitsubishi,£750,,"
+
+CAT
+
+
+Write-off",2001 (Y reg),SUV,"76,000 miles",1.8L,118BHP,Automatic
+69,Vauxhall,£950,,2007,Hatchback,"92,000 miles",1.4L,89BHP,Manual,Petrol
+70,Volkswagen,"£3,795",Good price,2009,Hatchback,"75,000 miles",1.4L,79BHP,Manual,Petrol
+71,Vauxhall,"£2,000",Good price,2009,Hatchback,"74,500 miles",1.0L,59BHP,Manual,Petrol
+72,Vauxhall,"£1,780",Fair price,2007,Hatchback,"141,400 miles",1.8L,138BHP,Automatic,Petrol
+73,Vauxhall,"£4,780",Lower price,2014,Coupe,"109,508 miles",2.0L,165PS,Manual,Diesel
+74,Ford,"£1,380",,2002,Hatchback,"83,300 miles",1.6L,99BHP,Manual,Petrol
+75,Peugeot,"£2,290",Great price,2007,Hatchback,"42,676 miles",1.0L,67BHP,Manual,Petrol
+76,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+77,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+78,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,ULEZ,
+79,Peugeot,£850,,2005,Hatchback,"61,000 miles",1.1L,60BHP,Manual,Petrol
+80,Vauxhall,£500,,2006,MPV,"152,990 miles",1.6L,103BHP,Manual,Petrol
+81,Renault,"£1,200",,2008,Hatchback,"85,000 miles",1.2L,100BHP,Manual,Petrol
+82,Vauxhall,"£1,299",,2006,Hatchback,"53,000 miles",1.4L,89BHP,Manual,Petrol
+83,Renault,£999,,2006,Hatchback,"83,791 miles",1.4L,98BHP,Manual,Petrol
+84,Vauxhall,£598,,2006,Hatchback,"100,000 miles",1.2L,79BHP,Manual,Petrol
+85,Renault,"£1,995",Great price,2008,Hatchback,"53,313 miles",1.2L,75BHP,Manual,Petrol
+86,Vauxhall,"£1,100",,2006,Hatchback,"94,555 miles",1.3L,89BHP,Manual,Diesel
+87,Peugeot,"£1,650",,2005,MPV,"100,154 miles",2.0L,110BHP,Manual,Diesel
+88,Hyundai,"£7,490",Good price,2011,MPV,"86,000 miles",2.5L,170PS,Manual,Diesel
+89,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+90,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+91,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+92,Volkswagen,£925,,2004,Hatchback,"141,610 miles",1.6L,113BHP,Manual,Petrol
+93,Ford,"£1,600",,1994,Coupe,"112,000 miles",2.0L,113BHP,Manual,Petrol
+94,Honda,£849,,2003,Hatchback,"94,000 miles",1.4L,82BHP,Automatic,Petrol
+95,Toyota,"£1,100",,2006,MPV,"143,418 miles",1.8L,127BHP,Manual,Petrol
+96,Saab,£995,,2004,Convertible,"105,360 miles",2.0L,150BHP,Manual,Petrol
+97,Vauxhall,£595,,2004,Hatchback,"163,235 miles",1.7L,79BHP,Manual,Diesel
+98,Vauxhall,"£1,200",,1986,Saloon,"36,000 miles",1.3L,75BHP,Manual,Petrol
+99,Volkswagen,"£1,105",,1971,Hatchback,"95,000 miles",Manual,Petrol,3 owners,
+100,Peugeot,"£1,290",,2008,Hatchback,"104,000 miles",1.4L,75BHP,Manual,Petrol
+101,Bmw,"£1,790",,2003,SUV,"194,000 miles",2.9L,181BHP,Automatic,Diesel
+102,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+103,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+104,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+105,Mercedes-Benz,"£7,999",Great price,2012,Saloon,"67,987 miles",1.8L,154BHP,Automatic,Petrol
+106,Peugeot,"£4,500",Good price,2014,Hatchback,"62,615 miles",1.2L,82BHP,Manual,Petrol
+107,Peugeot,"£8,500",Good price,2016,Hatchback,"51,500 miles",1.2L,130BHP,Manual,Petrol
+108,Skoda,"£1,250",,2010,Hatchback,"145,268 miles",80BHP,Manual,Diesel,
+109,Bmw,"£3,490",Lower price,2009,Coupe,"118,924 miles",2.0L,174BHP,Automatic,Diesel
+110,Ford,"£1,190",,2006,Hatchback,"102,852 miles",1.25L,74BHP,Manual,Petrol
+111,Nissan,"£1,950",,2009,Hatchback,"105,000 miles",1.6L,113BHP,Manual,Petrol
+112,Ford,"£2,495",Great price,2011,Hatchback,"120,000 miles",1.4L,94BHP,Automatic,Petrol
+113,Mini,£600,,"
+
+CAT
+
+
+Write-off",2003 (52 reg),Hatchback,"120,000 miles",1.6L,116BHP,Manual
+114,Bmw,"£3,190",Great price,2005,Convertible,"93,320 miles",2.0L,141BHP,Manual,Petrol
+115,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+116,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+117,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+118,Mini,"£1,695",,2004,Hatchback,"89,000 miles",1.6L,90BHP,Manual,Petrol
+119,Mitsubishi,"£4,490",,2003,Pickup,"99,000 miles",2.5L,113BHP,Manual,Diesel
+120,Kia,"£1,850",Lower price,2012,Hatchback,"8,000 miles",1.0L,68BHP,Manual,Petrol
+121,Volkswagen,"£2,600",Lower price,2007,Hatchback,"99,876 miles",1.8L,148BHP,Manual,Petrol
+122,London,£790,,2008,MPV,"300,000 miles",2.5L,100BHP,Manual,Diesel
+123,Mg,"£1,990",,2005,Convertible,"48,000 miles",1.8L,134BHP,Manual,Petrol
+124,Vauxhall,£650,,2006,Hatchback,"139,905 miles",99BHP,Manual,Diesel,
+125,Vauxhall,"£2,500",,2009,Hatchback,"93,000 miles",2.0L,128BHP,Automatic,Diesel
+126,Skoda,"£1,740",Good price,2005,Hatchback,"45,000 miles",1.2L,54BHP,Manual,Petrol
+127,Vauxhall,"£1,495",,2011,Hatchback,"102,000 miles",1.3L,74BHP,Manual,Diesel
+128,Mercedes-Benz,"£30,990",Good price,2019,Convertible,"6,940 miles",2.0L,258PS,Automatic,Petrol
+129,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+130,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+131,Mazda,£900,,2002,Hatchback,"41,000 miles",1.3L,71BHP,Manual,Petrol
+132,Fiat,"£3,990",,2011,Hatchback,"36,871 miles",1.2L,69BHP,Manual,Petrol
+133,Hyundai,£990,,2009,Hatchback,"94,000 miles",1.6L,115BHP,Manual,Diesel
+134,Peugeot,"£3,500",Fair price,2008,Estate,"81,500 miles",2.7L,205BHP,Automatic,Diesel
+135,Vauxhall,"£1,800",,2004,Hatchback,"62,000 miles",1.4L,89BHP,Automatic,Petrol
+136,Nissan,£895,,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"104,062 miles",1.2L,79BHP,Manual
+137,Peugeot,"£1,000",,2004,Hatchback,"104,500 miles",1.4L,88BHP,Manual,Petrol
+138,Hyundai,"£1,355",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"92,000 miles",1.6L,119BHP,Manual
+139,Nissan,"£2,995",Fair price,2008,Hatchback,"39,208 miles",1.4L,87BHP,Manual,Petrol
+140,Citroen,"£1,490",,2006,Hatchback,"43,000 miles",1.1L,61BHP,Manual,Petrol
+141,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+142,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+143,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+144,Ford,"£2,599",Fair price,2008,Hatchback,"61,888 miles",1.4L,79BHP,Manual,Petrol
+145,Skoda,"£2,790",Lower price,2012,Estate,"102,000 miles",1.2L,85BHP,Manual,Petrol
+146,Vauxhall,"£1,500",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"94,000 miles",1.2L,84BHP,Manual
+147,Bmw,"£1,980",,2004,Saloon,"215,800 miles",3.0L,204BHP,Automatic,Diesel
+148,Ford,£750,,2001,Hatchback,"150,000 miles",1.6L,99BHP,Manual,Petrol
+149,Vauxhall,"£1,299",,2006,MPV,"70,000 miles",1.6L,103BHP,Manual,Petrol
+150,Bmw,"£1,495",,2002,Estate,"166,500 miles",2.9L,193BHP,Automatic,Diesel
+151,Chevrolet,£999,,2005,Hatchback,"60,000 miles",1.0L,64BHP,Manual,Petrol
+152,Vauxhall,"£2,550",,2011,Saloon,"83,000 miles",1.8L,138BHP,Manual,Petrol
+153,Nissan,"£2,400",Great price,2007,Hatchback,"66,000 miles",1.4L,87BHP,Automatic,Petrol
+154,Mercedes-Benz,"£31,995",Good price,2019,Coupe,"8,352 miles",2.0L,194PS,Automatic,Diesel
+155,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+156,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+157,Bmw,"£1,290",,2001,Convertible,"127,000 miles",3.0L,231BHP,Manual,Petrol
+158,Peugeot,"£1,249",,2007,Hatchback,"87,000 miles",1.4L,90BHP,Manual,Petrol
+159,Peugeot,"£2,395",,"
+
+CAT
+
+
+Write-off",2011 (61 reg),Hatchback,"67,600 miles",1.6L,120BHP,Manual
+160,Honda,"£2,399",Fair price,2007,Hatchback,"99,777 miles",1.8L,138BHP,Manual,Petrol
+161,Mini,"£1,600",,"
+
+CAT
+
+
+Write-off",2007 (07 reg),Hatchback,"84,000 miles",1.6L,110BHP,Manual
+162,Mini,"£3,990",Great price,2007,Hatchback,"47,000 miles",1.6L,118BHP,Manual,Petrol
+163,Ford,£500,,2007,Hatchback,"127,000 miles",1.8L,123BHP,Manual,Diesel
+164,Nissan,"£2,190",Fair price,2008,Hatchback,"71,507 miles",1.2L,79BHP,Manual,Petrol
+165,Renault,£595,,"
+
+CAT
+
+
+Write-off",2007 (57 reg),Hatchback,"126,220 miles",1.4L,98BHP,Manual
+166,Vauxhall,"£1,699",,"
+
+CAT
+
+
+Write-off",2013 (63 reg),Hatchback,"113,809 miles",2.0L,158BHP,Manual
+167,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+168,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,First year road tax included,Full manufacturer warranty
+169,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+170,Volkswagen,"£1,149",,2004,Hatchback,"110,626 miles",1.2L,Manual,Petrol,
+171,Dacia,"£4,380",Good price,2014,Hatchback,"65,382 miles",0.9L,90BHP,Manual,Petrol
+172,Skoda,"£1,150",,2006,Hatchback,"105,000 miles",1.2L,54BHP,Manual,Petrol
+173,Renault,£807,,2006,Convertible,"120,000 miles",1.6L,111BHP,Manual,Petrol
+174,Nissan,"£1,000",,2004,Hatchback,"113,000 miles",1.2L,79BHP,Automatic,Petrol
+175,Vauxhall,"£1,890",Great price,2008,MPV,"78,000 miles",1.6L,113BHP,Manual,Petrol
+176,Mitsubishi,"£3,994",,2007,Pickup,"100,000 miles",2.5L,134BHP,Manual,Diesel
+177,Volkswagen,"£1,600",,2007,Hatchback,"81,500 miles",1.4L,79BHP,Manual,Petrol
+178,Volkswagen,"£4,599",,2012,Hatchback,"59,419 miles",1.2L,74BHP,Manual,Diesel
+179,Vauxhall,"£1,390",,2008,Hatchback,"125,000 miles",1.3L,74BHP,Manual,Diesel
+180,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+181,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+182,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+183,Audi,"£1,100",,1999,Coupe,"111,000 miles",1.8L,225BHP,Manual,Petrol
+184,Kia,"£2,695",Good price,2009,SUV,"85,000 miles",1.6L,126BHP,Manual,Diesel
+185,Peugeot,"£1,800",,2009,Hatchback,"52,933 miles",1.4L,95BHP,Manual,Petrol
+186,Volkswagen,"£2,880",Great price,2011,Saloon,"150,130 miles",1.6L,103BHP,Manual,Diesel
+187,Ford,"£3,695",Lower price,2012,MPV,"109,500 miles",2.0L,138BHP,Automatic,Diesel
+188,Volkswagen,"£2,990",Good price,2014,Saloon,"194,557 miles",1.6L,103BHP,Manual,Diesel
+189,Toyota,£660,,2005,Hatchback,"136,000 miles",2.0L,147BHP,Manual,Petrol
+190,Fiat,"£1,689",Great price,2010,Hatchback,"105,000 miles",1.4L,78PS,Manual,Petrol
+191,Peugeot,£710,,2005,Hatchback,"87,318 miles",1.4L,90BHP,Manual,Petrol
+192,Renault,£980,,2007,Hatchback,"118,763 miles",1.2L,75BHP,Manual,Petrol
+193,Mercedes-Benz,"£30,990",Good price,2019,Convertible,"6,940 miles",2.0L,258PS,Automatic,Petrol
+194,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+195,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+196,Toyota,"£2,650",,2006,Estate,"143,000 miles",3.0L,128BHP,Manual,Diesel
+197,Vauxhall,"£1,370",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"97,000 miles",1.2L,84BHP,Manual
+198,Toyota,"£3,190",Lower price,2007,Hatchback,"53,000 miles",1.4L,88BHP,Automatic,Diesel
+199,Vauxhall,"£4,250",Great price,2014,Hatchback,"28,989 miles",1.0L,64BHP,Manual,Petrol
+200,Vauxhall,"£1,500",,"
+
+CAT
+
+
+Write-off",2011 (60 reg),Hatchback,"75,890 miles",1.4L,99BHP,Manual
+201,Mercedes-Benz,"£2,400",,2005,SUV,"98,000 miles",3.7L,245BHP,Automatic,Petrol
+202,Citroen,"£1,980",Fair price,2007,MPV,"99,000 miles",1.6L,110BHP,Automatic,Diesel
+203,Volkswagen,"£2,000",,"
+
+CAT
+
+
+Write-off",2009 (09 reg),Hatchback,"92,200 miles",1.2L,60BHP,Manual
+204,Toyota,"£1,080",,"
+
+CAT
+
+
+Write-off",2007 (07 reg),Hatchback,"91,600 miles",1.6L,124BHP,Manual
+205,Vauxhall,"£5,250",Good price,2012,Hatchback,"55,740 miles",140PS,Manual,Petrol,ULEZ
+206,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+207,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+208,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,First year road tax included,Full manufacturer warranty
+209,Honda,"£1,990",Good price,2006,MPV,"109,000 miles",1.7L,123BHP,Manual,Petrol
+210,Honda,"£2,444",Great price,2008,Saloon,"130,000 miles",1.3L,93BHP,Automatic,Hybrid – Petrol/Electric
+211,Honda,"£1,489",,2009,Hatchback,"160,000 miles",1.4L,98BHP,Manual,Petrol
+212,Nissan,"£4,395",Fair price,2009,Hatchback,"90,000 miles",1.5L,105BHP,Manual,Diesel
+213,Smart,"£2,450",Good price,2007,Coupe,"67,479 miles",1.0L,84BHP,Automatic,Petrol
+214,Bmw,"£2,400",,"
+
+CAT
+
+
+Write-off",2006 (06 reg),Hatchback,"107,000 miles",1.6L,116BHP,Manual
+215,Toyota,"£1,870",Good price,2007,Hatchback,"80,200 miles",1.0L,67BHP,Manual,Petrol
+216,Volkswagen,"£2,350",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"114,211 miles",1.2L,59BHP,Manual
+217,Toyota,"£1,500",,2006,Hatchback,"126,000 miles",2.0L,147BHP,Manual,Petrol
+218,Saab,£949,,2007,Saloon,"125,000 miles",1.9L,148BHP,Automatic,Diesel
+219,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+220,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+221,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+222,Vauxhall,£695,,2005,Hatchback,"131,000 miles",1.4L,89BHP,Manual,Petrol
+223,Mg,"£4,500",Lower price,2017,Hatchback,"66,333 miles",1.5L,106PS,Manual,Petrol
+224,Mini,"£1,490",,2002,Hatchback,"112,000 miles",1.6L,116BHP,Manual,Petrol
+225,Jaguar,"£1,195",,2004,Saloon,"119,721 miles",2.0L,128BHP,Manual,Diesel
+226,Vauxhall,"£1,699",,2008,MPV,"67,500 miles",1.9L,119BHP,Automatic,Diesel
+227,Fiat,"£6,180",Good price,2016,Hatchback,"46,000 miles",1.4L,95PS,Manual,Petrol
+228,Ford,"£1,000",,1996,Saloon,"66,000 miles",2.0L,134BHP,Manual,Petrol
+229,Vauxhall,£700,,2007,MPV,"112,000 miles",1.6L,104BHP,Manual,Petrol
+230,Volkswagen,"£1,299",,2000,Hatchback,"47,677 miles",2.0L,115BHP,Manual,Petrol
+231,Peugeot,£650,,2000,Hatchback,"65,000 miles",1.1L,60BHP,Manual,Petrol
+232,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+233,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+234,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+235,Volkswagen,"£1,200",,2004,Saloon,"110,000 miles",1.9L,100BHP,Manual,Diesel
+236,Saab,"£2,250",,2004,Saloon,"97,500 miles",2.0L,210BHP,Manual,Petrol
+237,Vauxhall,"£2,950",Fair price,2010,Hatchback,"92,329 miles",1.3L,95PS,Manual,Diesel
+238,Seat,£616,,2005,Hatchback,"145,524 miles",1.9L,99BHP,Manual,Diesel
+239,Ford,"£1,295",,2004,Convertible,"38,100 miles",1.6L,94BHP,Manual,Petrol
+240,Peugeot,"£1,000",,2009,Saloon,"98,000 miles",1.6L,110BHP,Manual,Diesel
+241,Renault,"£1,400",,2006,Hatchback,"49,410 miles",1.2L,60BHP,Manual,Petrol
+242,Vauxhall,"£2,795",Lower price,2009,SUV,"85,300 miles",2.0L,150BHP,Automatic,Diesel
+243,Vauxhall,"£2,499",Great price,2010,Hatchback,"107,121 miles",2.0L,128BHP,Manual,Diesel
+244,Renault,"£4,999",Lower price,2015,Hatchback,"32,680 miles",0.9L,90BHP,Manual,Petrol
+245,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+246,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+247,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+248,Renault,"£3,489",Good price,2010,Coupe,"74,988 miles",2.0L,150BHP,Manual,Diesel
+249,Vauxhall,"£2,400",Good price,2011,Hatchback,"119,900 miles",2.0L,158BHP,Manual,Diesel
+250,Mini,"£3,450",,2007,Hatchback,"115,000 miles",1.6L,211BHP,Manual,Petrol
+251,Vauxhall,"£1,000",,2005,Hatchback,"71,588 miles",1.2L,79BHP,Manual,Petrol
+252,Nissan,"£3,490",Great price,2009,Hatchback,"105,177 miles",2.0L,148BHP,Manual,Diesel
+253,Peugeot,"£1,500",,2007,Hatchback,"79,799 miles",1.6L,90BHP,Manual,Diesel
+254,Saab,"£1,550",,2007,Convertible,"102,043 miles",1.9L,148BHP,Automatic,Diesel
+255,Vauxhall,"£1,480",,2008,Hatchback,"116,551 miles",1.3L,89BHP,Manual,Diesel
+256,Peugeot,"£1,500",,2011,Hatchback,"142,000 miles",1.0L,67BHP,Manual,Petrol
+257,Citroen,"£4,280",Lower price,2013,Hatchback,"55,000 miles",1.6L,118BHP,Manual,Petrol
+258,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+259,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+260,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+261,Vauxhall,"£1,195",,2007,Hatchback,"86,500 miles",1.8L,138BHP,Manual,Petrol
+262,Volkswagen,"£3,290",,"
+
+CAT
+
+
+Write-off",2007 (07 reg),Hatchback,"95,576 miles",2.0L,Automatic,Petrol
+263,Vauxhall,"£2,000",Fair price,2007,Hatchback,"87,000 miles",1.2L,79BHP,Manual,Petrol
+264,Vauxhall,"£2,090",,2009,Hatchback,"85,000 miles",1.2L,79BHP,Manual,Petrol
+265,Nissan,"£4,250",Great price,2009,Hatchback,"76,000 miles",1.5L,105BHP,Manual,Diesel
+266,Peugeot,"£1,995",,"
+
+CAT
+
+
+Write-off",2013 (13 reg),Hatchback,"60,000 miles",1.0L,68BHP,Manual
+267,Toyota,"£2,199",,2010,Hatchback,"71,750 miles",1.0L,67BHP,Manual,Petrol
+268,Vauxhall,"£2,990",Good price,2011,Estate,"104,000 miles",2.0L,158BHP,Manual,Diesel
+269,Volvo,"£1,700",,2003,Estate,"99,042 miles",2.4L,163BHP,Manual,Diesel
+270,Ford,"£2,200",,2010,Hatchback,"76,000 miles",2.0L,161BHP,Automatic,Diesel
+271,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+272,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+273,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+274,Ford,"£1,990",Fair price,2008,Hatchback,"95,000 miles",1.25L,74BHP,Manual,Petrol
+275,Nissan,£550,,2004,Hatchback,"122,000 miles",1.8L,114BHP,Manual,Petrol
+276,Renault,"£1,890",Fair price,2009,Hatchback,"116,000 miles",1.5L,105BHP,Manual,Diesel
+277,Vauxhall,"£2,489",Great price,2011,Hatchback,"79,000 miles",1.2L,84BHP,Manual,Petrol
+278,Peugeot,£650,,2005,Hatchback,"107,300 miles",1.1L,60BHP,Manual,Petrol
+279,Mg,£995,,"
+
+CAT
+
+
+Write-off",2003 (03 reg),Convertible,"63,000 miles",1.8L,134BHP,Manual
+280,Hyundai,"£1,550",,2003,Coupe,"59,300 miles",2.7L,165BHP,Automatic,Petrol
+281,Nissan,"£1,300",,2006,Hatchback,"60,166 miles",1.2L,79BHP,Manual,Petrol
+282,Fiat,"£2,100",,2008,Hatchback,"92,000 miles",1.4L,100BHP,Manual,Petrol
+283,Volkswagen,"£1,990",Great price,2007,Estate,"124,000 miles",2.0L,138BHP,Automatic,Diesel
+284,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+285,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+286,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,ULEZ,
+287,Honda,"£1,250",,2006,MPV,"138,000 miles",2.2L,138BHP,Manual,Diesel
+288,Ford,"£1,500",,2001,Hatchback,"70,500 miles",1.6L,99BHP,Automatic,Petrol
+289,Volkswagen,£750,,2004,Hatchback,"133,565 miles",1.9L,64BHP,Manual,Diesel
+290,Toyota,"£2,490",Great price,2009,Hatchback,"106,500 miles",1.4L,89BHP,Manual,Diesel
+291,Vauxhall,"£3,500",Fair price,2014,Hatchback,"84,246 miles",1.0L,64BHP,Manual,Petrol
+292,Suzuki,"£1,801",,2011,Hatchback,"128,100 miles",1.2L,93BHP,Manual,Petrol
+293,Citroen,"£1,595",Lower price,2008,Hatchback,"41,300 miles",1.0L,68BHP,Manual,Petrol
+294,Citroen,"£1,890",Good price,2008,Hatchback,"69,019 miles",1.0L,68BHP,Manual,Petrol
+295,Mini,£700,,2001,Hatchback,"121,000 miles",1.6L,90BHP,Manual,Petrol
+296,Bmw,"£2,195",Great price,2006,Hatchback,"133,000 miles",2.0L,163BHP,Manual,Diesel
+297,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+298,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+299,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+300,Ford,£902,,2006,Hatchback,"94,500 miles",1.25L,74BHP,Manual,Petrol
+301,Vauxhall,"£1,989",Fair price,2010,Estate,"149,000 miles",2.0L,128BHP,Manual,Diesel
+302,Bmw,£999,,"
+
+CAT
+
+
+Write-off",2004 (04 reg),Coupe,"130,000 miles",2.0L,150BHP,Manual
+303,Vauxhall,"£2,195",,2009,Hatchback,"58,000 miles",1.4L,89BHP,Manual,Petrol
+304,Ford,"£3,200",,2012,Hatchback,"86,969 miles",1.25L,59BHP,Manual,Petrol
+305,Volkswagen,"£3,175",Great price,2006,Hatchback,"72,000 miles",2.0L,148BHP,Manual,Petrol
+306,Vauxhall,"£4,248",Great price,2013,Hatchback,"70,000 miles",1.2L,83BHP,Manual,Petrol
+307,Peugeot,"£1,000",,2008,Hatchback,"120,000 miles",1.6L,90BHP,Manual,Diesel
+308,Vauxhall,"£2,980",Great price,2011,Hatchback,"97,200 miles",1.8L,138BHP,Manual,Petrol
+309,Jaguar,"£5,395",,2011,Saloon,"120,000 miles",3.0L,Automatic,Diesel,
+310,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+311,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+312,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+313,Suzuki,"£2,500",Great price,2010,Hatchback,"89,110 miles",1.2L,93BHP,Manual,Petrol
+314,Citroen,"£2,980",Lower price,2010,Hatchback,"92,900 miles",1.6L,110BHP,Manual,Diesel
+315,Bmw,"£3,275",,2009,Hatchback,"130,903 miles",2.0L,143BHP,Automatic,Diesel
+316,Jaguar,"£8,498",Great price,2014,Saloon,"110,000 miles",2.2L,200BHP,Automatic,Diesel
+317,Bmw,"£2,495",,2004,Saloon,"148,000 miles",2.0L,150BHP,Manual,Diesel
+318,Peugeot,"£1,790",Good price,2008,Hatchback,"67,000 miles",1.0L,67BHP,Manual,Petrol
+319,Ford,"£1,980",Fair price,2008,MPV,"124,000 miles",2.0L,143BHP,Automatic,Petrol
+320,Vauxhall,"£2,200",Great price,2007,MPV,"80,300 miles",1.6L,113BHP,Manual,Petrol
+321,Nissan,"£1,490",,2007,SUV,"125,000 miles",2.5L,166BHP,Manual,Petrol
+322,Ford,£850,,2003,Hatchback,"103,000 miles",1.4L,Manual,Petrol,3 owners
+323,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+324,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+325,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+326,Vauxhall,"£3,800",,2012,Coupe,"105,000 miles",2.0L,165PS,Automatic,Diesel
+327,Ford,"£1,990",Great price,2006,Hatchback,"66,000 miles",1.6L,99BHP,Automatic,Petrol
+328,Mercedes-Benz,"£1,590",,1997,Saloon,"88,000 miles",1.8L,122BHP,Automatic,Petrol
+329,Seat,"£7,700",Great price,2015,Hatchback,"35,842 miles",1.2L,104BHP,Manual,Petrol
+330,Mercedes-Benz,"£1,990",,2004,Saloon,"98,000 miles",3.2L,224BHP,Automatic,Petrol
+331,Land,"£1,890",Great price,2005,SUV,"108,000 miles",2.0L,110BHP,Manual,Diesel
+332,Volkswagen,"£1,900",,2008,Saloon,"76,000 miles",1.6L,113BHP,Manual,Petrol
+333,Ford,"£1,500",,2007,Hatchback,"159,300 miles",2.3L,159BHP,Automatic,Petrol
+334,Volkswagen,"£22,395",Good price,2017,Hatchback,"33,217 miles",2.0L,310PS,Manual,Petrol
+335,Vauxhall,£850,,2000,Hatchback,"58,000 miles",1.6L,99BHP,Manual,Petrol
+336,Mercedes-Benz,"£30,990",Good price,2019,Convertible,"6,940 miles",2.0L,258PS,Automatic,Petrol
+337,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+338,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+339,Vauxhall,"£3,750",Fair price,2009,Hatchback,"20,000 miles",1.6L,113BHP,Manual,Petrol
+340,Toyota,"£2,500",,2012,Saloon,"122,000 miles",2.0L,125BHP,Manual,Diesel
+341,Mercedes-Benz,"£1,980",Great price,2005,Coupe,"96,000 miles",2.1L,122BHP,Automatic,Diesel
+342,Ford,"£1,995",,2005,MPV,"116,000 miles",2.8L,200BHP,Manual,Petrol
+343,Ford,"£2,000",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"96,000 miles",1.25L,81BHP,Manual
+344,Vauxhall,"£1,390",,2006,Hatchback,"80,000 miles",1.8L,138BHP,Automatic,Petrol
+345,Ford,"£1,990",Good price,2010,Hatchback,"132,000 miles",1.6L,108BHP,Manual,Diesel
+346,Fiat,"£3,999",Fair price,2012,Hatchback,"59,000 miles",1.2L,69BHP,Manual,Petrol
+347,Peugeot,£795,,2009,Hatchback,"81,201 miles",1.4L,75BHP,Manual,Petrol
+348,Volkswagen,"£2,500",,2006,Hatchback,"64,500 miles",1.4L,74BHP,Automatic,Petrol
+349,Mercedes-Benz,"£35,490",Good price,2019,Coupe,"9,335 miles",3.0L,286PS,Automatic,Diesel
+350,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+351,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+352,Honda,"£2,295",Fair price,2005,Saloon,"93,000 miles",2.4L,188BHP,Manual,Petrol
+353,Vauxhall,"£2,495",Good price,2006,Estate,"34,000 miles",1.4L,89BHP,Manual,Petrol
+354,Mazda,"£1,900",,2000,Convertible,"93,000 miles",1.8L,140BHP,Manual,Petrol
+355,Mercedes-Benz,"£1,890",Fair price,2007,Hatchback,"127,000 miles",2.0L,109BHP,Automatic,Diesel
+356,Ford,"£1,990",Great price,2009,Hatchback,"79,000 miles",1.2L,69BHP,Manual,Petrol
+357,Vauxhall,"£2,299",,2008,Hatchback,"87,000 miles",1.4L,89BHP,Automatic,Petrol
+358,Fiat,"£2,599",Good price,2011,Hatchback,"54,771 miles",1.4L,78PS,Manual,Petrol
+359,Nissan,"£4,195",Fair price,2014,Hatchback,"70,700 miles",1.2L,79BHP,Manual,Petrol
+360,Volvo,£695,,2008,Saloon,"120,000 miles",1.6L,100BHP,Manual,Petrol
+361,Volkswagen,"£4,800",,"
+
+CAT
+
+
+Write-off",2012 (61 reg),Hatchback,"39,669 miles",1.4L,85BHP,Manual
+362,Mercedes-Benz,"£30,990",Good price,2019,Convertible,"6,940 miles",2.0L,258PS,Automatic,Petrol
+363,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+364,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+365,Audi,"£1,480",,2001,Saloon,"130,250 miles",2.0L,130BHP,Automatic,Petrol
+366,Vauxhall,"£4,295",,2013,Hatchback,"65,200 miles",1.6L,115PS,Manual,Petrol
+367,Ford,"£2,395",Lower price,2010,Estate,"86,000 miles",1.8L,123BHP,Manual,Diesel
+368,Renault,"£2,490",Fair price,2005,MPV,"103,000 miles",3.0L,180BHP,Automatic,Diesel
+369,Jaguar,"£3,950",,2007,Saloon,"64,666 miles",2.7L,206BHP,Automatic,Diesel
+370,Bmw,"£14,200",Good price,2017,SUV,"54,120 miles",2.0L,150BHP,Automatic,Diesel
+371,Alfa,"£1,850",,"
+
+CAT
+
+
+Write-off",2008 (57 reg),Saloon,"75,000 miles",2.4L,200BHP,Automatic
+372,Mazda3,"£1,495",,2008,Hatchback,"84,000 miles",1.6L,103BHP,Manual,Petrol
+373,Ford,£999,,2008,Hatchback,"122,100 miles",1.8L,113BHP,Manual,Diesel
+374,Kia,"£1,989",Great price,2011,Hatchback,"80,500 miles",1.4L,95BHP,Manual,Petrol
+375,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+376,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+377,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+378,Renault,"£2,999",Good price,2010,MPV,"74,000 miles",1.5L,105BHP,Manual,Diesel
+379,Ssangyong,"£1,990",,2006,MPV,"55,000 miles",2.7L,165BHP,Manual,Diesel
+380,Mini,"£1,800",,2007,Hatchback,"130,000 miles",1.6L,175BHP,Manual,Petrol
+381,Ford,"£2,790",Great price,2009,MPV,"148,000 miles",2.2L,173BHP,Manual,Diesel
+382,Honda,"£2,250",Fair price,2006,Hatchback,"94,000 miles",1.8L,138BHP,Manual,Petrol
+383,Seat,"£1,562",,2009,Hatchback,"134,000 miles",1.6L,105BHP,Manual,Diesel
+384,Bmw,"£1,490",,2005,Hatchback,"140,500 miles",2.0L,122BHP,Manual,Diesel
+385,Fiat,"£1,110",,2006,Hatchback,"46,679 miles",1.2L,60BHP,Manual,Petrol
+386,Nissan,"£1,800",Great price,2008,Hatchback,"37,000 miles",1.4L,87BHP,Manual,Petrol
+387,Bmw,"£2,850",,2006,Saloon,"84,500 miles",2.0L,163BHP,Automatic,Diesel
+388,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+389,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+390,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+391,Seat,£500,,"
+
+CAT
+
+
+Write-off",2003 (03 reg),Hatchback,"181,000 miles",1.9L,110BHP,Manual
+392,Saab,"£1,600",,2006,Convertible,"94,000 miles",2.0L,148BHP,Manual,Petrol
+393,Ford,"£3,600",Fair price,2010,Hatchback,"97,409 miles",1.6L,94BHP,Manual,Diesel
+394,Fiat,"£1,590",Great price,2007,Hatchback,"63,000 miles",1.9L,150BHP,Manual,Diesel
+395,Vauxhall,"£3,250",,2014,Hatchback,"129,000 miles",2.0L,138BHP,Manual,Diesel
+396,Citroen,"£1,190",,2004,Hatchback,"110,000 miles",1.4L,92BHP,Manual,Diesel
+397,Fiat,£850,,2007,Hatchback,"86,931 miles",1.3L,70BHP,Manual,Diesel
+398,Jaguar,"£4,275",Great price,2008,Saloon,"111,000 miles",2.7L,204BHP,Automatic,Diesel
+399,Mercedes-Benz,"£2,495",,2006,Coupe,"120,000 miles",1.8L,163BHP,Automatic,Petrol
+400,Honda,"£2,495",Lower price,2009,Saloon,"147,000 miles",2.2L,148BHP,Automatic,Diesel
+401,Mercedes-Benz,"£20,990",Good price,2018,Estate,"11,442 miles",2.0L,184PS,Automatic,Petrol
+402,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+403,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+404,Honda,"£2,250",Fair price,2006,SUV,"154,000 miles",2.2L,138BHP,Manual,Diesel
+405,Ford,"£1,695",Fair price,2006,Hatchback,"97,000 miles",1.4L,79BHP,Manual,Petrol
+406,Ford,"£1,989",,"
+
+CAT
+
+
+Write-off",2009 (59 reg),Hatchback,"66,000 miles",1.4L,94BHP,Manual
+407,Kia,"£1,900",,2010,Hatchback,"45,601 miles",1.0L,60BHP,Manual,Petrol
+408,Mercedes-Benz,"£8,450",Fair price,2009,Saloon,"40,000 miles",2.1L,170BHP,Automatic,Diesel
+409,Renault,"£1,490",,2007,Hatchback,"145,000 miles",2.0L,150BHP,Manual,Diesel
+410,Citroen,"£3,995",,2014,Hatchback,"77,000 miles",1.6L,118BHP,Manual,Petrol
+411,Vauxhall,"£2,580",,2011,Hatchback,"97,400 miles",2.0L,158BHP,Automatic,Diesel
+412,Vauxhall,"£1,480",,2008,Hatchback,"83,000 miles",1.6L,113BHP,Manual,Petrol
+413,Ford,"£3,199",,2009,Hatchback,"73,682 miles",1.25L,81BHP,Manual,Petrol
+414,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+415,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+416,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+417,Fiat,"£3,995",Good price,2012,Hatchback,"60,970 miles",1.2L,69BHP,Manual,Petrol
+418,Renault,£950,,2005,Hatchback,"79,000 miles",1.2L,75BHP,Manual,Petrol
+419,Honda,"£1,050",,2005,Saloon,"120,850 miles",2.0L,153BHP,Manual,Petrol
+420,Peugeot,"£2,400",Fair price,2008,Hatchback,"78,900 miles",1.6L,120BHP,Manual,Petrol
+421,Honda,"£1,990",,"
+
+CAT
+
+
+Write-off",2004 (04 reg),Hatchback,"55,114 miles",1.6L,108BHP,Automatic
+422,Nissan,"£9,400",Great price,2015,SUV,"81,846 miles",1.6L,128BHP,Automatic,Diesel
+423,Vauxhall,"£1,999",,"
+
+CAT
+
+
+Write-off",2013 (62 reg),Hatchback,"60,000 miles",1.2L,84BHP,Manual
+424,Vauxhall,"£4,000",,2012,Hatchback,"68,000 miles",1.6L,115PS,Manual,Petrol
+425,Seat,"£3,790",Great price,2012,Hatchback,"39,000 miles",1.0L,60PS,Manual,Petrol
+426,Hyundai,"£3,500",Fair price,2012,Hatchback,"65,000 miles",1.2L,76BHP,Manual,Petrol
+427,Mercedes-Benz,"£35,490",Good price,2019,Coupe,"9,335 miles",3.0L,286PS,Automatic,Diesel
+428,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+429,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+430,Peugeot,"£5,475",Good price,2010,Coupe,"54,000 miles",1.6L,156BHP,Manual,Petrol
+431,Renault,"£3,395",Good price,2008,Hatchback,"27,112 miles",1.2L,100BHP,Manual,Petrol
+432,Vauxhall,£850,,2004,Hatchback,"72,990 miles",1.6L,99BHP,Manual,Petrol
+433,Fiat,"£5,495",Great price,2014,Hatchback,"21,611 miles",1.2L,69BHP,Manual,Petrol
+434,Mazda6,"£3,100",,2008,Hatchback,"63,500 miles",2.5L,168BHP,Manual,Petrol
+435,Renault,"£9,750",Lower price,2017,SUV,"30,877 miles",1.5L,110PS,Manual,Diesel
+436,Ford,"£5,490",Lower price,2012,MPV,"104,688 miles",2.0L,161BHP,Automatic,Diesel
+437,Toyota,£790,,2002,Hatchback,"82,714 miles",1.0L,67BHP,Manual,Petrol
+438,Volkswagen,"£2,500",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"104,000 miles",1.6L,103BHP,Automatic
+439,Isuzu,"£4,490",,2005,Pickup,"100,000 miles",3.0L,129BHP,Manual,Diesel
+440,Mercedes-Benz,"£35,490",Good price,2019,Coupe,"9,335 miles",3.0L,286PS,Automatic,Diesel
+441,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+442,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+443,Vauxhall,"£1,295",,2006,Hatchback,"111,000 miles",1.6L,103BHP,Manual,Petrol
+444,Audi,"£5,500",,2006,Hatchback,"99,500 miles",2.0L,261BHP,Manual,Petrol
+445,Toyota,"£1,500",,2004,MPV,"90,000 miles",1.8L,127BHP,Automatic,Petrol
+446,Mercedes-Benz,"£5,980",Great price,2012,Saloon,"123,082 miles",2.1L,175BHP,Automatic,Diesel
+447,Peugeot,"£1,400",,2005,Hatchback,"57,146 miles",1.6L,110BHP,Manual,Petrol
+448,Suzuki,"£1,800",Fair price,2008,Hatchback,"101,600 miles",1.5L,101BHP,Manual,Petrol
+449,Renault,"£3,687",Great price,2012,Estate,"85,000 miles",1.5L,110BHP,Manual,Diesel
+450,Vauxhall,"£3,795",Good price,2011,Hatchback,"71,000 miles",2.0L,217BHP,Manual,Petrol
+451,Vauxhall,"£2,500",,2010,Hatchback,"60,000 miles",1.8L,138BHP,Manual,Petrol
+452,Land,"£1,499",,2003,SUV,"98,579 miles",1.8L,115BHP,Manual,Petrol
+453,Mercedes-Benz,"£35,490",Good price,2019,Coupe,"9,335 miles",3.0L,286PS,Automatic,Diesel
+454,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+455,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,First year road tax included,Full manufacturer warranty
+456,Mazda2,"£1,980",Good price,2009,Hatchback,"91,000 miles",1.3L,85BHP,Manual,Petrol
+457,Ford,"£2,495",Great price,2009,MPV,"66,200 miles",1.6L,99BHP,Manual,Petrol
+458,Renault,"£1,110",,2011,Hatchback,"197,000 miles",1.9L,130BHP,Manual,Diesel
+459,Fiat,"£3,495",Good price,2012,Hatchback,"84,000 miles",1.2L,69BHP,Manual,Petrol
+460,Ford,"£1,990",Great price,2008,MPV,"80,000 miles",1.8L,123BHP,Manual,Petrol
+461,Mercedes-Benz,"£7,490",Great price,2010,Saloon,"41,082 miles",2.1L,136BHP,Automatic,Diesel
+462,Renault,"£1,888",Good price,2009,Hatchback,"120,000 miles",1.6L,128BHP,Manual,Petrol
+463,Nissan,"£1,280",,"
+
+CAT
+
+
+Write-off",2006 (56 reg),Hatchback,"125,400 miles",1.8L,114BHP,Manual
+464,Vauxhall,"£3,440",Good price,2010,Hatchback,"89,000 miles",1.4L,140PS,Manual,Petrol
+465,Vauxhall,"£1,500",,2010,Hatchback,"105,300 miles",1.7L,108BHP,Manual,Diesel
+466,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+467,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+468,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+469,Skoda,"£2,950",,2012,Hatchback,"51,393 miles",1.2L,60BHP,Manual,Petrol
+470,Vauxhall,"£1,490",,2007,Hatchback,"86,000 miles",1.8L,138BHP,Manual,Petrol
+471,Toyota,"£4,295",Good price,2013,Estate,"143,000 miles",2.2L,150BHP,Automatic,Diesel
+472,Volkswagen,"£2,995",Great price,2006,SUV,"120,000 miles",2.5L,172BHP,Automatic,Diesel
+473,Vauxhall,"£1,180",,2004,MPV,"101,300 miles",1.8L,123BHP,Automatic,Petrol
+474,Volkswagen,"£1,290",,1999,Hatchback,"68,000 miles",1.6L,100BHP,Automatic,Petrol
+475,Audi,"£1,090",,2006,Hatchback,"177,410 miles",1.6L,100BHP,Manual,Petrol
+476,Honda,"£1,999",,2003,SUV,"119,888 miles",2.0L,148BHP,Automatic,Petrol
+477,Skoda,"£1,790",,2005,Saloon,"127,000 miles",1.9L,130BHP,Automatic,Diesel
+478,Peugeot,"£1,495",,2005,Estate,"112,000 miles",2.0L,90BHP,Manual,Diesel
+479,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+480,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+481,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+482,Vauxhall,"£1,795",Great price,2008,Hatchback,"84,000 miles",1.3L,89BHP,Manual,Diesel
+483,Honda,"£2,190",Fair price,2008,Hatchback,"110,000 miles",1.4L,82BHP,Manual,Petrol
+484,Mitsubishi,"£2,995",,2005,SUV,"75,027 miles",2.0L,127BHP,Manual,Petrol
+485,Ford,"£3,990",Good price,2011,Estate,"135,000 miles",2.2L,197BHP,Automatic,Diesel
+486,Ford,"£3,250",,2010,Hatchback,"53,000 miles",1.6L,108BHP,Manual,Diesel
+487,Bmw,"£1,895",,2003,Convertible,"147,000 miles",3.0L,231BHP,Manual,Petrol
+488,Jaguar,"£1,999",Lower price,2008,Saloon,"81,527 miles",2.2L,152BHP,Manual,Diesel
+489,Volkswagen,"£3,500",Fair price,2009,Hatchback,"100,000 miles",1.4L,79BHP,Manual,Petrol
+490,London,"£1,000",,"
+
+CAT
+
+
+Write-off",2009 (09 reg),MPV,"217,000 miles",2.5L,100BHP,Automatic
+491,Citroen,"£1,500",,"
+
+CAT
+
+
+Write-off",2009 (59 reg),Hatchback,"94,200 miles",1.4L,75BHP,Manual
+492,Mercedes-Benz,"£35,490",Good price,2019,Coupe,"9,335 miles",3.0L,286PS,Automatic,Diesel
+493,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+494,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+495,Land,£995,,2002,SUV,"90,953 miles",1.8L,115BHP,Manual,Petrol
+496,Ford,"£2,995",Good price,2008,MPV,"76,000 miles",2.0L,145BHP,Automatic,Petrol
+497,Vauxhall,"£2,100",,2009,Hatchback,"97,000 miles",2.0L,158BHP,Automatic,Diesel
+498,Honda,"£4,495",Lower price,2011,Hatchback,"39,000 miles",1.4L,98BHP,Manual,Petrol
+499,Jaguar,"£3,495",,2006,Saloon,"87,113 miles",2.7L,206BHP,Automatic,Diesel
+500,Saab,"£1,000",,2000,Convertible,"91,500 miles",2.0L,150BHP,Manual,Petrol
+501,Vauxhall,"£2,400",Great price,2010,MPV,"106,000 miles",1.7L,108BHP,Manual,Diesel
+502,Mercedes-Benz,"£17,250",Good price,2014,SUV,"68,801 miles",2.1L,204BHP,Automatic,Diesel
+503,Peugeot,"£1,895",,2006,Hatchback,"81,000 miles",1.0L,67BHP,Automatic,Petrol
+504,Ford,"£7,000",Good price,2011,MPV,"120,000 miles",2.2L,197BHP,Manual,Diesel
+505,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+506,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+507,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+508,Mercedes-Benz,"£3,599",,2007,Saloon,"104,000 miles",2.1L,170BHP,Manual,Diesel
+509,Audi,"£9,600",Lower price,2016,Hatchback,"29,355 miles",1.6L,108BHP,Manual,Diesel
+510,Mercedes-Benz,"£1,990",,2005,Coupe,"94,000 miles",2.1L,143BHP,Automatic,Diesel
+511,Vauxhall,"£3,000",Great price,2011,Hatchback,"69,000 miles",1.3L,74BHP,Manual,Diesel
+512,Vauxhall,"£7,699",Good price,2017,Hatchback,"43,222 miles",1.4L,99BHP,Manual,Petrol
+513,Ford,"£4,690",Good price,2012,Hatchback,"88,000 miles",1.6L,123BHP,Manual,Petrol
+514,Renault,£695,,2002,Hatchback,"112,000 miles",2.0L,135BHP,Manual,Petrol
+515,Peugeot,"£1,200",,"
+
+CAT
+
+
+Write-off",2008 (08 reg),Hatchback,"62,000 miles",1.4L,95BHP,Manual
+516,Mercedes-Benz,"£3,789",Higher price,2005,Convertible,"98,230 miles",1.8L,163BHP,Automatic,Petrol
+517,Mercedes-Benz,"£4,422",,2009,Saloon,"155,772 miles",3.0L,231BHP,Automatic,Diesel
+518,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+519,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+520,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+521,Volkswagen,"£5,000",,2015,Hatchback,"111,000 miles",1.4L,74BHP,Manual,Diesel
+522,Bmw,"£4,850",,2006,Convertible,"140,000 miles",3.0L,258BHP,Automatic,Petrol
+523,Jaguar,"£6,995",Fair price,2009,Saloon,"82,260 miles",3.0L,271BHP,Automatic,Diesel
+524,Mercedes-Benz,"£3,550",,2008,SUV,"147,000 miles",3.0L,190BHP,Automatic,Diesel
+525,Ford,"£2,995",Great price,2011,Hatchback,"74,000 miles",1.2L,69BHP,Manual,Petrol
+526,Volkswagen,"£2,790",Fair price,2007,Estate,"86,000 miles",2.0L,138BHP,Manual,Diesel
+527,Mini,"£1,290",,2004,Convertible,"153,000 miles",1.6L,90BHP,Manual,Petrol
+528,Vauxhall,"£5,480",Good price,2014,Hatchback,"27,000 miles",1.2L,84BHP,Manual,Petrol
+529,Bmw,"£2,000",,2007,Saloon,"122,667 miles",2.0L,163BHP,Manual,Diesel
+530,Vauxhall,£650,,2004,MPV,"154,200 miles",2.0L,99BHP,Manual,Diesel
+531,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+532,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+533,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+534,Vauxhall,"£2,300",,2009,Hatchback,"74,000 miles",1.8L,138BHP,Automatic,Petrol
+535,Mini,"£2,790",Great price,2007,Hatchback,"64,199 miles",1.4L,95BHP,Manual,Petrol
+536,Peugeot,"£3,290",Great price,2012,Hatchback,"45,243 miles",1.0L,68BHP,Manual,Petrol
+537,Kia,"£4,750",,2012,Hatchback,"55,250 miles",1.6L,Manual,Diesel,
+538,Peugeot,"£9,895",Good price,2016,SUV,"36,000 miles",1.2L,82PS,Automatic,Petrol
+539,Honda,"£2,450",Good price,2007,Saloon,"120,000 miles",2.4L,188BHP,Automatic,Petrol
+540,Volkswagen,"£1,300",,2002,Hatchback,"140,000 miles",1.8L,150BHP,Manual,Petrol
+541,Fiat,"£1,395",,2009,Hatchback,"74,000 miles",1.2L,60BHP,Manual,Petrol
+542,Ford,"£2,995",Great price,2009,Hatchback,"78,760 miles",1.25L,81BHP,Manual,Petrol
+543,Mercedes-Benz,"£14,400",Great price,2014,SUV,"22,118 miles",2.1L,136BHP,Manual,Diesel
+544,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+545,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+546,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+547,Vauxhall,"£2,400",Fair price,2010,MPV,"108,400 miles",1.9L,119BHP,Manual,Diesel
+548,Vauxhall,"£1,490",,2006,Hatchback,"80,329 miles",1.8L,123BHP,Manual,Petrol
+549,Citroen,"£2,450",,2012,Hatchback,"159,000 miles",1.6L,90BHP,Manual,Diesel
+550,Renault,"£1,250",,2000,Convertible,"46,000 miles",1.6L,110BHP,Manual,Petrol
+551,Fiat,"£3,995",Lower price,2013,Hatchback,"47,714 miles",1.2L,69BHP,Manual,Petrol
+552,Peugeot,"£1,445",,2007,Hatchback,"67,596 miles",1.0L,67BHP,Manual,Petrol
+553,Smart,"£5,100",Great price,2015,Hatchback,"26,699 miles",1.0L,71PS,Manual,Petrol
+554,Honda,"£2,200",,2000,Coupe,"105,868 miles",2.2L,197BHP,Manual,Petrol
+555,Honda,"£2,850",,2009,Hatchback,"97,500 miles",1.8L,138BHP,Manual,Petrol
+556,Mini,"£4,200",,2007,Hatchback,"90,300 miles",1.6L,120BHP,Automatic,Petrol
+557,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+558,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+559,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+560,Toyota,£990,,2004,Hatchback,"120,000 miles",1.8L,127BHP,Manual,Petrol
+561,Volkswagen,"£5,999",Good price,2012,Hatchback,"22,754 miles",1.0L,74BHP,Manual,Petrol
+562,Toyota,"£3,200",,1990,Coupe,"41,712 miles",2.0L,119BHP,Automatic,Petrol
+563,Volvo,"£3,750",,2005,Saloon,"115,000 miles",2.5L,217BHP,Manual,Petrol
+564,Vauxhall,£983,,2005,Hatchback,"67,000 miles",1.2L,79BHP,Manual,Petrol
+565,Vauxhall,"£1,499",,2004,Hatchback,"44,000 miles",1.2L,74BHP,Manual,Petrol
+566,Citroen,£800,,2005,Hatchback,"112,000 miles",1.4L,75BHP,Manual,Petrol
+567,Toyota,"£3,300",,2005,MPV,"100,707 miles",2.0L,114BHP,Manual,Diesel
+568,Bmw,"£1,949",,2003,SUV,"170,000 miles",3.0L,Automatic,Petrol,1 owner
+569,Bmw,"£4,000",,2012,Coupe,"126,050 miles",2.0L,184BHP,Manual,Diesel
+570,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+571,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+572,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+573,Bmw,"£6,690",Great price,2013,Hatchback,"77,000 miles",2.0L,116BHP,Manual,Diesel
+574,Mini,"£2,980",Higher price,2007,Hatchback,"89,300 miles",1.6L,120BHP,Manual,Petrol
+575,Ds,"£7,500",Lower price,2015,Hatchback,"31,289 miles",1.6L,118BHP,Manual,Diesel
+576,Toyota,"£4,270",Great price,2012,Hatchback,"52,500 miles",1.33L,99BHP,Manual,Petrol
+577,Ford,"£2,490",Lower price,2008,Hatchback,"38,562 miles",1.6L,99BHP,Automatic,Petrol
+578,Jaguar,"£2,999",,2008,Saloon,"162,000 miles",2.7L,204BHP,Automatic,Diesel
+579,Honda,"£2,790",Great price,2007,Hatchback,"82,000 miles",1.8L,138BHP,Manual,Petrol
+580,Citroen,"£1,837",,2008,Coupe,"65,500 miles",1.6L,110BHP,Manual,Diesel
+581,Lexus,"£5,749",Lower price,2012,Hatchback,"133,850 miles",1.8L,99BHP,Automatic,Hybrid – Petrol/Electric
+582,Peugeot,£595,,"
+
+CAT
+
+
+Write-off",2006 (56 reg),Hatchback,"97,200 miles",1.4L,90BHP,Manual
+583,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+584,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+585,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+586,Mercedes-Benz,"£1,500",,2005,Estate,"187,000 miles",2.1L,150BHP,Automatic,Diesel
+587,Nissan,£600,,2002,Hatchback,"109,000 miles",1.0L,60BHP,Manual,Petrol
+588,Citroen,£850,,2004,MPV,"98,809 miles",2.0L,88BHP,Manual,Diesel
+589,Kia,"£4,980",Lower price,2013,Hatchback,"69,000 miles",1.6L,126BHP,Manual,Diesel
+590,Ford,"£6,200",Great price,2014,Hatchback,"60,937 miles",1.0L,123BHP,Manual,Petrol
+591,Ford,"£3,500",,2014,MPV,"111,200 miles",2.0L,138BHP,Automatic,Diesel
+592,Vauxhall,"£2,390",Good price,2009,MPV,"92,920 miles",1.9L,119BHP,Automatic,Diesel
+593,Mercedes-Benz,"£1,450",,"
+
+CAT
+
+
+Write-off",2006 (06 reg),Hatchback,"62,700 miles",1.7L,116BHP,Manual
+594,Ford,"£6,930",,2016,Hatchback,"43,391 miles",1.0L,138BHP,Manual,Petrol
+595,Toyota,£900,,2005,MPV,"133,000 miles",1.8L,127BHP,Manual,Petrol
+596,Mercedes-Benz,"£35,490",Good price,2019,Coupe,"9,335 miles",3.0L,286PS,Automatic,Diesel
+597,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+598,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+599,Mini,"£5,500",Good price,2012,Hatchback,"38,000 miles",1.6L,75BHP,Manual,Petrol
+600,Renault,"£3,250",Lower price,2011,MPV,"134,000 miles",2.0L,175BHP,Automatic,Diesel
+601,Ford,"£4,100",Great price,2013,Hatchback,"89,298 miles",1.6L,94BHP,Manual,Diesel
+602,Ford,£800,,2003,Hatchback,"78,453 miles",1.6L,Automatic,Petrol,3 owners
+603,Audi,"£7,950",Good price,2013,Hatchback,"92,989 miles",2.0L,148BHP,Automatic,Diesel
+604,Ford,"£1,397",,2008,Hatchback,"104,736 miles",1.25L,74BHP,Manual,Petrol
+605,Vauxhall,"£1,650",,2006,Hatchback,"111,115 miles",1.4L,89BHP,Manual,Petrol
+606,Mercedes-Benz,"£6,890",Great price,2013,Saloon,"99,687 miles",2.1L,170BHP,Automatic,Diesel
+607,Volkswagen,"£4,940",Good price,2010,Hatchback,"75,200 miles",1.4L,123BHP,Manual,Petrol
+608,Fiat,"£2,500",Higher price,2009,Hatchback,"53,000 miles",1.2L,60BHP,Manual,Petrol
+609,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+610,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+611,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+612,Renault,"£5,587",Lower price,2013,SUV,"53,000 miles",0.9L,90BHP,Manual,Petrol
+613,Peugeot,"£1,995",Good price,2006,Hatchback,"20,500 miles",1.4L,75BHP,Manual,Petrol
+614,Ford,"£1,999",Good price,2009,Hatchback,"116,000 miles",1.6L,99BHP,Manual,Petrol
+615,Renault,"£6,299",Great price,2015,Hatchback,"41,340 miles",0.9L,90BHP,Manual,Petrol
+616,Toyota,"£10,600",Lower price,2015,Hatchback,"34,277 miles",1.8L,136PS,Automatic,Hybrid – Petrol/Electric
+617,Vauxhall,"£4,495",Lower price,2015,Hatchback,"56,000 miles",1.4L,99BHP,Manual,Petrol
+618,Triumph,"£2,900",,1980,Saloon,"99,071 miles",1.9L,91BHP,Automatic,Petrol
+619,Vauxhall,£999,,"
+
+CAT
+
+
+Write-off",2006 (56 reg),Estate,"165,000 miles",1.3L,89BHP,Manual
+620,Audi,"£2,000",,2002,Hatchback,"160,000 miles",1.8L,210BHP,Manual,Petrol
+621,Mazda3,"£1,500",,2009,Hatchback,"91,000 miles",1.6L,107BHP,Manual,Diesel
+622,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+623,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+624,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+625,Volkswagen,"£2,350",,2003,Hatchback,"99,000 miles",2.8L,204BHP,Manual,Petrol
+626,Seat,"£1,899",Great price,2007,MPV,"90,000 miles",2.0L,138BHP,Manual,Diesel
+627,Bmw,"£2,825",,2007,Saloon,"115,000 miles",2.0L,129BHP,Automatic,Petrol
+628,Vauxhall,"£3,600",Fair price,2011,Hatchback,"111,179 miles",2.0L,158BHP,Automatic,Diesel
+629,Bmw,"£6,295",Good price,2012,Saloon,"48,000 miles",2.0L,143BHP,Manual,Petrol
+630,Toyota,"£1,390",,2004,Hatchback,"83,000 miles",1.0L,67BHP,Manual,Petrol
+631,Citroen,"£1,999",Great price,2009,MPV,"102,657 miles",1.6L,118BHP,Manual,Petrol
+632,Volkswagen,"£3,245",,2010,Hatchback,"97,434 miles",1.4L,123BHP,Manual,Petrol
+633,Bmw,"£3,850",,2011,Saloon,"102,439 miles",2.0L,116BHP,Manual,Diesel
+634,Mazda2,"£2,030",,2008,Hatchback,"70,760 miles",1.5L,102BHP,Manual,Petrol
+635,Mercedes-Benz,"£20,990",Good price,2018,Estate,"11,442 miles",2.0L,184PS,Automatic,Petrol
+636,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+637,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+638,Peugeot,"£1,495",,2008,Hatchback,"88,270 miles",1.4L,75BHP,Manual,Petrol
+639,Saab,"£2,995",,2008,Estate,"117,200 miles",2.0L,207BHP,Automatic,Petrol
+640,Bmw,"£2,195",,1999,Saloon,"77,743 miles",2.0L,150BHP,Automatic,Petrol
+641,Bmw,"£2,450",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Coupe,"93,000 miles",2.0L,143BHP,Manual
+642,Vauxhall,"£5,000",Good price,2016,Hatchback,"62,904 miles",1.4L,75PS,Manual,Petrol
+643,Vauxhall,"£2,450",,"
+
+CAT
+
+
+Write-off",2013 (13 reg),Hatchback,"50,000 miles",1.3L,74BHP,Manual
+644,Mitsubishi,"£2,995",,2001,Pickup,"133,000 miles",2.5L,113BHP,Manual,Diesel
+645,Saab,"£2,490",Great price,2005,Convertible,"86,000 miles",2.0L,150BHP,Automatic,Petrol
+646,Audi,"£2,989",,2004,Saloon,"153,000 miles",4.2L,335BHP,Automatic,Petrol
+647,Peugeot,"£1,300",,2006,Hatchback,"65,000 miles",1.6L,110BHP,Manual,Petrol
+648,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+649,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,First year road tax included,Full manufacturer warranty
+650,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,First year road tax included,Full manufacturer warranty
+651,Volkswagen,£990,,"
+
+CAT
+
+
+Write-off",2005 (55 reg),Hatchback,"150,000 miles",1.4L,69BHP,Manual
+652,Peugeot,£900,,2007,Saloon,"160,000 miles",2.0L,136BHP,Manual,Diesel
+653,Hyundai,"£2,500",,2009,Hatchback,"31,900 miles",1.2L,76BHP,Manual,Petrol
+654,Mini,"£1,350",,2005,Hatchback,"116,193 miles",1.6L,90BHP,Manual,Petrol
+655,Ford,"£6,000",,1986,Hatchback,"15,800 miles",2.8L,148BHP,Automatic,Petrol
+656,Mazda2,"£2,199",,2008,Hatchback,"70,826 miles",1.5L,102BHP,Manual,Petrol
+657,Ford,"£1,295",,2006,Hatchback,"98,490 miles",1.6L,99BHP,Manual,Petrol
+658,Vauxhall,"£2,795",Lower price,2013,Hatchback,"99,900 miles",1.4L,99BHP,Manual,Petrol
+659,Vauxhall,£550,,2005,Estate,"100,120 miles",1.6L,103BHP,Manual,Petrol
+660,Citroen,"£1,950",,"
+
+CAT
+
+
+Write-off",2011 (11 reg),Hatchback,"38,200 miles",1.0L,68BHP,Manual
+661,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+662,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+663,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+664,Bmw,"£5,000",,2007,Saloon,"107,000 miles",3.0L,231BHP,Automatic,Diesel
+665,Bmw,"£2,600",,2009,Hatchback,"120,000 miles",2.0L,143BHP,Manual,Diesel
+666,Nissan,£998,,1998,Hatchback,"63,295 miles",1.0L,53BHP,Automatic,Petrol
+667,Jaguar,"£9,500",Lower price,2016,Saloon,"103,284 miles",2.0L,180PS,Automatic,Diesel
+668,Volkswagen,"£2,000",,2006,Hatchback,"93,400 miles",2.0L,138BHP,Manual,Diesel
+669,Vauxhall,"£3,000",,2012,Hatchback,"77,100 miles",1.3L,95PS,Manual,Diesel
+670,Honda,"£4,225",,2011,SUV,"119,499 miles",2.2L,148BHP,Manual,Diesel
+671,Bmw,"£1,090",,"
+
+CAT
+
+
+Write-off",2002 (52 reg),Convertible,"118,500 miles",2.0L,143BHP,Automatic
+672,Ford,"£2,790",Great price,2007,Hatchback,"47,987 miles",1.4L,79BHP,Automatic,Petrol
+673,Mazda,"£4,195",Good price,2011,Hatchback,"85,153 miles",2.2L,180BHP,Manual,Diesel
+674,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+675,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+676,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+677,Fiat,"£3,973",Good price,2010,Hatchback,"49,000 miles",1.2L,69BHP,Manual,Petrol
+678,Chevrolet,"£1,290",,2008,Estate,"64,000 miles",1.8L,119BHP,Automatic,Petrol
+679,Vauxhall,"£1,500",,"
+
+CAT
+
+
+Write-off",2004 (04 reg),Hatchback,"83,550 miles",1.8L,123BHP,Automatic
+680,Saab,£750,,2004,Convertible,"137,000 miles",2.0L,175BHP,Automatic,Petrol
+681,Mazda6,"£2,000",,2009,Hatchback,"58,923 miles",2.0L,145BHP,Manual,Petrol
+682,Honda,£950,,"
+
+CAT
+
+
+Write-off",2004 (54 reg),Hatchback,"93,000 miles",1.4L,82BHP,Manual
+683,Vauxhall,"£3,699",Good price,2010,Hatchback,"89,888 miles",1.6L,190BHP,Manual,Petrol
+684,Mazda5,"£1,550",,"
+
+CAT
+
+
+Write-off",2008 (58 reg),MPV,"104,000 miles",2.0L,144BHP,Manual
+685,Vauxhall,"£2,989",Great price,2011,Hatchback,"74,758 miles",1.4L,99BHP,Manual,Petrol
+686,Citroen,"£2,790",Good price,2007,MPV,"71,000 miles",2.0L,138BHP,Automatic,Diesel
+687,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+688,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+689,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+690,Skoda,"£1,000",,2003,Hatchback,"87,000 miles",1.2L,64BHP,Manual,Petrol
+691,Vauxhall,"£1,995",Fair price,2008,Hatchback,"78,000 miles",1.2L,79BHP,Manual,Petrol
+692,Vauxhall,£995,,2003,Hatchback,"35,000 miles",1.2L,74BHP,Manual,Petrol
+693,Hyundai,"£2,795",Great price,2011,Estate,"84,000 miles",1.6L,115BHP,Manual,Diesel
+694,Ford,"£1,495",,2009,Hatchback,"102,800 miles",1.2L,69BHP,Manual,Petrol
+695,Ford,"£2,400",Great price,2009,Hatchback,"122,000 miles",1.6L,118BHP,Manual,Petrol
+696,Bmw,"£1,495",,2007,Hatchback,"97,000 miles",2.0L,143BHP,Manual,Diesel
+697,Peugeot,£899,,2003,Hatchback,"52,000 miles",1.4L,75BHP,Automatic,Petrol
+698,Nissan,£780,,2000,Hatchback,"80,056 miles",1.0L,53BHP,Manual,Petrol
+699,Citroen,"£1,000",,2006,Hatchback,"62,000 miles",1.6L,110BHP,Manual,Petrol
+700,Mercedes-Benz,"£30,990",Good price,2019,Convertible,"6,940 miles",2.0L,258PS,Automatic,Petrol
+701,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+702,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+703,Skoda,"£3,995",Lower price,2009,Estate,"96,500 miles",2.0L,170BHP,Manual,Diesel
+704,Smart,"£2,980",Great price,2008,Coupe,"41,400 miles",1.0L,83BHP,Automatic,Petrol
+705,Peugeot,"£3,750",Fair price,2012,Saloon,"102,125 miles",1.6L,112BHP,Automatic,Diesel
+706,Honda,"£3,650",,2008,Hatchback,"49,000 miles",1.8L,138BHP,Manual,Petrol
+707,Renault,"£5,995",Good price,2007,Hatchback,"65,000 miles",2.0L,230BHP,Manual,Petrol
+708,Ford,"£2,995",Fair price,2010,Hatchback,"95,000 miles",1.6L,108BHP,Manual,Diesel
+709,Honda,"£3,695",Fair price,2010,Hatchback,"91,000 miles",1.8L,138BHP,Manual,Petrol
+710,Vauxhall,"£4,200",Good price,2013,Hatchback,"66,320 miles",1.4L,118BHP,Manual,Petrol
+711,Peugeot,"£4,000",Great price,2013,Hatchback,"55,000 miles",1.0L,68BHP,Manual,Petrol
+712,Vauxhall,"£1,490",,2006,MPV,"50,000 miles",1.6L,99BHP,Manual,Petrol
+713,Mercedes-Benz,"£20,990",Good price,2018,Estate,"11,442 miles",2.0L,184PS,Automatic,Petrol
+714,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,First year road tax included,Full manufacturer warranty
+715,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+716,Bmw,"£10,900",Lower price,2016,Saloon,"30,521 miles",2.0L,163BHP,Manual,Diesel
+717,Vauxhall,"£3,000",,1989,Hatchback,"65,000 miles",1.2L,44BHP,Manual,Petrol
+718,Volkswagen,"£1,490",,2008,Hatchback,"86,000 miles",1.2L,70BHP,Manual,Petrol
+719,Ford,£675,,1996,Hatchback,"135,880 miles",2.0L,134BHP,Manual,Petrol
+720,Peugeot,£999,,2009,Hatchback,"69,500 miles",1.4L,75BHP,Manual,Petrol
+721,Mercedes-Benz,"£8,000",,2013,Hatchback,"104,000 miles",1.8L,108BHP,Automatic,Diesel
+722,Volkswagen,"£2,695",,2007,Estate,"125,000 miles",2.0L,168BHP,Automatic,Diesel
+723,Mercedes-Benz,"£9,590",Good price,2012,Saloon,"69,978 miles",3.0L,264BHP,Automatic,Diesel
+724,Renault,"£2,350",,2011,Hatchback,"70,000 miles",1.6L,110BHP,Manual,Petrol
+725,Mitsubishi,"£1,875",Lower price,2010,Hatchback,"96,000 miles",2.0L,138BHP,Manual,Diesel
+726,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+727,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+728,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+729,Citroen,"£7,195",Good price,2015,Hatchback,"37,700 miles",1.2L,80BHP,Manual,Petrol
+730,Nissan,£750,,2000,Hatchback,"96,000 miles",1.0L,53BHP,Manual,Petrol
+731,Ford,"£7,887",Lower price,2015,SUV,"27,000 miles",1.0L,123BHP,Manual,Petrol
+732,Honda,"£13,000",Great price,2018,Hatchback,"29,483 miles",1.6L,120PS,Manual,Diesel
+733,Citroen,"£2,980",Great price,2011,MPV,"116,800 miles",1.6L,110BHP,Manual,Diesel
+734,Bmw,£920,,2006,Saloon,"169,000 miles",2.0L,122BHP,Manual,Diesel
+735,Chevrolet,"£2,150",,2009,SUV,"120,000 miles",2.0L,148BHP,Manual,Diesel
+736,Ford,"£2,995",Fair price,2010,Hatchback,"76,315 miles",1.2L,68BHP,Manual,Petrol
+737,Citroen,"£3,695",Great price,2013,MPV,"116,000 miles",2.0L,150BHP,Automatic,Diesel
+738,Citroen,"£1,500",,"
+
+CAT
+
+
+Write-off",2011 (11 reg),Hatchback,"86,000 miles",1.4L,95BHP,Automatic
+739,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+740,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,First year road tax included,Full manufacturer warranty
+741,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+742,Mazda,"£3,000",,2009,Coupe,"47,000 miles",1.3L,228BHP,Manual,Petrol
+743,Audi,"£3,890",Great price,2008,Saloon,"107,000 miles",1.8L,158BHP,Manual,Petrol
+744,Peugeot,"£5,179",Great price,2016,Hatchback,"56,747 miles",1.2L,82PS,Manual,Petrol
+745,Volkswagen,"£3,790",Good price,2013,Hatchback,"83,152 miles",1.0L,59BHP,Manual,Petrol
+746,Land,"£14,890",Lower price,2011,Coupe,"75,604 miles",2.0L,240BHP,Automatic,Petrol
+747,Ford,"£2,890",Great price,2009,Hatchback,"90,778 miles",1.25L,81BHP,Manual,Petrol
+748,Mercedes-Benz,"£14,895",Fair price,2014,Coupe,"60,348 miles",3.0L,247BHP,Automatic,Diesel
+749,Peugeot,"£1,450",,2007,Hatchback,"62,000 miles",1.4L,90BHP,Manual,Petrol
+750,Vauxhall,"£2,395",,2010,Hatchback,"108,000 miles",2.0L,158BHP,Manual,Diesel
+751,Renault,"£1,480",,2009,Hatchback,"136,092 miles",2.0L,150BHP,Manual,Diesel
+752,Mercedes-Benz,"£30,990",Good price,2019,Convertible,"6,940 miles",2.0L,258PS,Automatic,Petrol
+753,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+754,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+755,Ford,"£5,195",,2017,Hatchback,"55,000 miles",1.0L,125PS,Automatic,Petrol
+756,Ford,"£3,600",,2011,Hatchback,"82,911 miles",1.6L,103BHP,Manual,Petrol
+757,Bmw,"£2,654",,2011,Hatchback,"125,000 miles",2.0L,116BHP,Manual,Diesel
+758,Ford,"£6,499",Lower price,2014,MPV,"51,756 miles",1.6L,113BHP,Manual,Diesel
+759,Toyota,"£1,500",,2003,SUV,"101,493 miles",2.0L,147BHP,Manual,Petrol
+760,Volkswagen,"£11,300",Great price,2017,Estate,"76,853 miles",2.0L,150PS,Manual,Diesel
+761,Honda,"£4,350",,2012,Hatchback,"69,000 miles",1.3L,Automatic,Hybrid – Petrol/Electric,1 owner
+762,Toyota,"£2,495",Fair price,2006,Hatchback,"87,000 miles",1.0L,67BHP,Automatic,Petrol
+763,Citroen,"£5,995",,2013,Saloon,"76,000 miles",2.0L,Manual,Diesel,1 owner
+764,Infiniti,"£8,795",Lower price,2016,Hatchback,"20,965 miles",1.5L,109PS,Manual,Diesel
+765,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+766,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+767,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+768,Toyota,"£2,599",,2012,Hatchback,"73,000 miles",1.0L,67BHP,Manual,Petrol
+769,Renault,"£2,400",Good price,2010,MPV,"100,000 miles",1.5L,110BHP,Manual,Diesel
+770,Volkswagen,"£4,400",,2012,Hatchback,"58,283 miles",1.2L,74BHP,Manual,Diesel
+771,Citroen,"£1,000",,"
+
+CAT
+
+
+Write-off",2002 (02 reg),Hatchback,"95,349 miles",1.6L,100BHP,Manual
+772,Toyota,"£1,750",,2009,Hatchback,"107,616 miles",1.0L,67BHP,Manual,Petrol
+773,Renault,£950,,2006,Hatchback,"75,000 miles",1.4L,98BHP,Manual,Petrol
+774,Ford,"£2,995",Lower price,2012,Hatchback,"129,000 miles",2.2L,197BHP,Automatic,Diesel
+775,Volkswagen,"£9,800",Great price,2015,Estate,"60,560 miles",2.0L,150PS,Manual,Diesel
+776,Chrysler,"£6,490",Lower price,2013,MPV,"107,000 miles",2.8L,178BHP,Automatic,Diesel
+777,Honda,£995,,2002,Hatchback,"92,000 miles",1.6L,108BHP,Automatic,Petrol
+778,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+779,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+780,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,ULEZ,
+781,Bmw,"£5,480",Good price,2012,SUV,"98,165 miles",2.0L,141BHP,Manual,Diesel
+782,Vauxhall,"£4,490",Lower price,2014,Hatchback,"55,260 miles",1.3L,74BHP,Manual,Diesel
+783,Honda,"£1,500",,2005,Hatchback,"86,600 miles",1.4L,82BHP,Automatic,Petrol
+784,Ford,£995,,2003,Hatchback,"78,371 miles",1.3L,67BHP,Manual,Petrol
+785,Honda,"£3,750",Fair price,2008,Hatchback,"58,000 miles",1.4L,82BHP,Manual,Petrol
+786,Vauxhall,"£2,200",,"
+
+CAT
+
+
+Write-off",2012 (62 reg),Hatchback,"59,508 miles",1.2L,84BHP,Manual
+787,Vauxhall,"£8,250",Good price,2012,Hatchback,"81,747 miles",1.4L,148BHP,Automatic,Hybrid – Petrol/Electric Plug-in
+788,Jaguar,"£4,200",,2006,Saloon,"59,850 miles",3.0L,240BHP,Automatic,Petrol
+789,Fiat,"£6,980",Lower price,2017,Hatchback,"21,000 miles",1.2L,70PS,Manual,Petrol
+790,Hyundai,"£1,890",,"
+
+CAT
+
+
+Write-off",2012 (12 reg),Hatchback,"56,700 miles",1.2L,84BHP,Manual
+791,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+792,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+793,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+794,Hyundai,"£1,690",Great price,2006,SUV,"98,000 miles",2.0L,111BHP,Manual,Diesel
+795,Seat,"£6,495",Great price,2015,Hatchback,"26,603 miles",1.4L,84BHP,Manual,Petrol
+796,Nissan,"£3,849",,2003,Pickup,"97,000 miles",2.5L,131BHP,Manual,Diesel
+797,Jaguar,£695,,"
+
+CAT
+
+
+Write-off",2000 (W reg),Saloon,"177,000 miles",3.2L,240BHP,Automatic
+798,Volvo,"£1,980",,"
+
+CAT
+
+
+Write-off",2008 (08 reg),Saloon,"73,300 miles",1.6L,99BHP,Manual
+799,Mercedes-Benz,"£14,490",Great price,2019,Hatchback,"29,898 miles",1.5L,109PS,Automatic,Diesel
+800,Toyota,"£1,500",,"
+
+CAT
+
+
+Write-off",2000 (X reg),Hatchback,"34,449 miles",1.3L,85BHP,Automatic
+801,Volkswagen,"£4,495",Great price,2011,Hatchback,"72,000 miles",1.6L,103BHP,Manual,Diesel
+802,Ford,"£10,795",Lower price,2018,Hatchback,"30,825 miles",1.0L,100PS,Automatic,Petrol
+803,Fiat,£900,,2010,Hatchback,"110,000 miles",1.1L,54BHP,Manual,Petrol
+804,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+805,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+806,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+807,Mazda3,"£1,790",Fair price,2006,Hatchback,"83,267 miles",1.6L,103BHP,Manual,Petrol
+808,Mini,"£4,999",Good price,2011,Hatchback,"82,000 miles",1.6L,122BHP,Manual,Petrol
+809,Subaru,"£2,695",Lower price,2006,SUV,"96,000 miles",2.5L,227BHP,Manual,Petrol
+810,Volkswagen,£850,,2005,Hatchback,"120,366 miles",1.6L,113BHP,Manual,Petrol
+811,Volkswagen,"£1,779",,2001,Convertible,"96,000 miles",2.0L,115BHP,Manual,Petrol
+812,Volkswagen,"£3,499",,2010,Hatchback,"79,000 miles",1.4L,85BHP,Manual,Petrol
+813,Bmw,"£4,190",,2005,Saloon,"122,000 miles",3.0L,Automatic,Diesel,2 owners
+814,Vauxhall,"£2,490",Lower price,2010,Hatchback,"70,000 miles",1.2L,84BHP,Manual,Petrol
+815,Jaguar,"£3,381",Great price,2009,Saloon,"73,000 miles",2.0L,128BHP,Manual,Diesel
+816,Bmw,"£3,690",,2007,Coupe,"70,700 miles",2.0L,170BHP,Manual,Petrol
+817,Mercedes-Benz,"£35,490",Good price,2019,Coupe,"9,335 miles",3.0L,286PS,Automatic,Diesel
+818,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+819,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+820,Peugeot,"£3,480",Great price,2012,Hatchback,"91,000 miles",1.2L,82BHP,Manual,Petrol
+821,Fiat,"£5,750",Lower price,2015,Hatchback,"24,000 miles",1.2L,69BHP,Manual,Petrol
+822,Volvo,"£4,475",Lower price,2011,Estate,"76,000 miles",2.0L,148BHP,Manual,Diesel
+823,Rover,"£2,200",,1996,Hatchback,"32,306 miles",1.1L,59BHP,Manual,Petrol
+824,Alfa,"£2,550",,2012,Hatchback,"107,000 miles",1.6L,120BHP,Manual,Diesel
+825,Bmw,"£3,500",,2004,Convertible,"65,000 miles",2.0L,143BHP,Automatic,Petrol
+826,Citroen,"£1,150",,2003,Hatchback,"30,000 miles",1.1L,60BHP,Manual,Petrol
+827,Citroen,"£1,500",,2007,MPV,"132,000 miles",2.0L,138BHP,Automatic,Diesel
+828,Citroen,"£6,287",Lower price,2017,Hatchback,"64,000 miles",1.6L,120PS,Manual,Diesel
+829,Ford,"£5,500",,2012,Hatchback,"72,000 miles",1.0L,123BHP,Manual,Petrol
+830,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+831,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+832,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+833,Vauxhall,"£6,880",Great price,2016,Hatchback,"33,055 miles",1.4L,90PS,Manual,Petrol
+834,Vauxhall,"£1,890",Fair price,2006,MPV,"74,000 miles",1.6L,103BHP,Manual,Petrol
+835,Renault,"£1,095",,2007,MPV,"129,920 miles",1.9L,130BHP,Manual,Diesel
+836,Ford,"£3,695",,2009,Hatchback,"42,000 miles",1.25L,81BHP,Manual,Petrol
+837,Mercedes-Benz,"£4,750",Fair price,2009,Hatchback,"25,293 miles",2.0L,109BHP,Manual,Diesel
+838,Alfa,"£15,995",Great price,2017,Saloon,"23,790 miles",2.0L,197BHP,Automatic,Petrol
+839,Skoda,"£4,995",Lower price,2012,Hatchback,"128,500 miles",2.0L,168BHP,Manual,Diesel
+840,Ford,"£1,900",,"
+
+CAT
+
+
+Write-off",2009 (09 reg),Hatchback,"95,000 miles",1.25L,81BHP,Manual
+841,Peugeot,"£8,800",Good price,2015,Hatchback,"43,302 miles",1.6L,205BHP,Manual,Petrol
+842,Volvo,"£1,990",Fair price,2009,Saloon,"140,000 miles",2.0L,136BHP,Manual,Diesel
+843,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+844,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+845,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+846,Volkswagen,"£1,150",,2007,Hatchback,"96,500 miles",1.2L,55BHP,Manual,Petrol
+847,Ford,"£2,795",Fair price,2008,Hatchback,"71,200 miles",1.6L,99BHP,Manual,Petrol
+848,Bmw,"£3,400",,2004,Coupe,"118,000 miles",3.0L,231BHP,Automatic,Petrol
+849,Volkswagen,"£7,100",Great price,2014,MPV,"90,586 miles",2.0L,138BHP,Manual,Diesel
+850,Volkswagen,"£1,595",,"
+
+CAT
+
+
+Write-off",2005 (05 reg),Hatchback,"87,448 miles",1.6L,113BHP,Manual
+851,Vauxhall,"£2,980",Good price,2009,Hatchback,"120,800 miles",2.0L,158BHP,Automatic,Diesel
+852,Ford,"£7,489",Great price,2016,Hatchback,"32,000 miles",1.0L,99BHP,Manual,Petrol
+853,Ford,"£7,195",Lower price,2016,Hatchback,"50,652 miles",1.0L,138BHP,Manual,Petrol
+854,Fiat,"£1,770",,2008,Hatchback,"86,800 miles",1.9L,120BHP,Manual,Diesel
+855,Vauxhall,"£5,995",Fair price,2015,Hatchback,"70,000 miles",1.0L,113BHP,Manual,Petrol
+856,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+857,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+858,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+859,Vauxhall,"£1,650",,2011,Hatchback,"178,130 miles",2.0L,158BHP,Manual,Diesel
+860,Audi,"£2,799",,2010,Hatchback,"114,000 miles",1.6L,104BHP,Manual,Diesel
+861,Smart,"£1,195",,2003,Hatchback,"71,000 miles",0.7L,61BHP,Automatic,Petrol
+862,Honda,"£1,545",,"
+
+CAT
+
+
+Write-off",2008 (58 reg),Hatchback,"40,248 miles",1.4L,82BHP,Manual
+863,Seat,"£6,499",,2014,Hatchback,"5,330 miles",1.4L,84BHP,Manual,Petrol
+864,Smart,"£2,590",Good price,2009,Coupe,"82,427 miles",0.8L,54BHP,Automatic,Diesel
+865,Fiat,"£5,500",Great price,2016,Hatchback,"24,500 miles",1.2L,70PS,Manual,Petrol
+866,Toyota,"£3,480",Great price,2009,Hatchback,"69,500 miles",1.33L,100BHP,Manual,Petrol
+867,Vauxhall,"£7,650",Great price,2016,Hatchback,"44,325 miles",1.6L,110PS,Manual,Diesel
+868,Vauxhall,"£3,190",Good price,2011,MPV,"89,000 miles",1.7L,108BHP,Manual,Diesel
+869,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+870,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+871,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+872,Audi,"£4,490",,2008,Coupe,"111,000 miles",1.8L,168BHP,Manual,Petrol
+873,Nissan,"£3,350",Fair price,2007,Hatchback,"49,000 miles",1.6L,109BHP,Automatic,Petrol
+874,Citroen,"£1,849",,2007,MPV,"115,000 miles",1.6L,110BHP,Automatic,Diesel
+875,Ford,"£2,975",,2010,Hatchback,"132,000 miles",1.25L,81BHP,Manual,Petrol
+876,Alfa,"£5,500",,2006,Coupe,"61,440 miles",3.2L,240BHP,Manual,Petrol
+877,Mazda,"£1,995",,1999,Convertible,"86,000 miles",1.6L,Automatic,Petrol,5 owners
+878,Fiat,"£1,995",Higher price,2006,Hatchback,"61,741 miles",1.2L,65BHP,Manual,Petrol
+879,Toyota,"£5,950",,1999,Coupe,"62,000 miles",2.0L,168BHP,Manual,Petrol
+880,Peugeot,"£6,000",Lower price,2017,Hatchback,"9,454 miles",1.0L,68PS,Manual,Petrol
+881,Bmw,"£11,980",Great price,2015,Hatchback,"37,000 miles",2.0L,190PS,Manual,Diesel
+882,Mercedes-Benz,"£20,990",Good price,2018,Estate,"11,442 miles",2.0L,184PS,Automatic,Petrol
+883,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+884,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+885,Citroen,"£2,000",Good price,2010,Hatchback,"109,500 miles",1.0L,68BHP,Manual,Petrol
+886,Ford,"£2,900",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"58,438 miles",1.4L,94BHP,Manual
+887,Bmw,"£2,670",,1999,Estate,"108,000 miles",2.5L,170BHP,Automatic,Petrol
+888,Nissan,£500,,2000,Hatchback,"58,000 miles",1.0L,53BHP,Manual,Petrol
+889,Dacia,"£4,989",Lower price,2017,Estate,"82,091 miles",1.5L,90BHP,Manual,Diesel
+890,Vauxhall,"£6,495",Great price,2016,Hatchback,"42,500 miles",1.4L,90PS,Manual,Petrol
+891,Bmw,"£3,000",,2009,Estate,"98,775 miles",2.0L,143BHP,Automatic,Petrol
+892,Bmw,"£3,495",Good price,2007,Hatchback,"70,000 miles",1.6L,122BHP,Manual,Petrol
+893,Vauxhall,"£2,000",Fair price,2007,Hatchback,"81,800 miles",1.2L,79BHP,Manual,Petrol
+894,Vauxhall,"£1,650",,"
+
+CAT
+
+
+Write-off",2009 (59 reg),Hatchback,"77,000 miles",1.2L,79BHP,Manual
+895,Mercedes-Benz,"£31,995",Good price,2019,Coupe,"8,352 miles",2.0L,194PS,Automatic,Diesel
+896,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+897,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+898,Audi,"£6,725",,2012,Hatchback,"64,000 miles",1.2L,85BHP,Manual,Petrol
+899,Vauxhall,"£3,800",,2010,Hatchback,"81,000 miles",1.6L,190BHP,Manual,Petrol
+900,Volvo,"£4,220",,2012,Estate,"89,000 miles",1.6L,113BHP,Manual,Diesel
+901,Ford,"£5,490",Good price,2012,Hatchback,"43,000 miles",1.25L,81BHP,Manual,Petrol
+902,Ssangyong,"£5,999",,2009,SUV,"74,618 miles",2.7L,183BHP,Automatic,Diesel
+903,Vauxhall,"£4,750",,2012,Coupe,"67,500 miles",2.0L,165PS,Manual,Diesel
+904,Mini,"£9,995",Good price,2017,Hatchback,"29,484 miles",1.5L,136BHP,Manual,Petrol
+905,Peugeot,"£1,999",Great price,2007,Convertible,"66,000 miles",2.0L,140BHP,Manual,Petrol
+906,Ford,"£1,399",,2009,Hatchback,"108,000 miles",1.8L,123BHP,Manual,Diesel
+907,Land,"£1,395",,2003,SUV,"87,400 miles",2.0L,110BHP,Automatic,Diesel
+908,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+909,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+910,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+911,Mini,"£6,590",Great price,2013,Hatchback,"54,108 miles",1.6L,120BHP,Manual,Petrol
+912,Jaguar,£792,,2005,Saloon,"126,300 miles",2.0L,128BHP,Manual,Diesel
+913,Lexus,"£2,599",,"
+
+CAT
+
+
+Write-off",2005 (55 reg),Saloon,"152,000 miles",3.0L,245BHP,Automatic
+914,Nissan,"£2,590",Great price,2008,Hatchback,"153,475 miles",2.0L,148BHP,Automatic,Diesel
+915,Volvo,"£2,090",,"
+
+CAT
+
+
+Write-off",2009 (59 reg),Estate,"124,000 miles",2.0L,134BHP,Manual
+916,Nissan,"£1,280",,2006,Hatchback,"110,800 miles",1.4L,87BHP,Manual,Petrol
+917,Audi,"£3,902",,2008,Coupe,"111,000 miles",2.0L,197BHP,Manual,Petrol
+918,Audi,"£4,995",,"
+
+CAT
+
+
+Write-off",2010 (60 reg),Coupe,"117,000 miles",2.0L,168BHP,Manual
+919,Mazda3,£671,,2006,Hatchback,"115,300 miles",1.6L,103BHP,Manual,Petrol
+920,Ford,"£1,690",Great price,2008,Hatchback,"69,000 miles",1.4L,79BHP,Manual,Petrol
+921,Mercedes-Benz,"£20,990",Good price,2018,Estate,"11,442 miles",2.0L,184PS,Automatic,Petrol
+922,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+923,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+924,Renault,"£2,695",Lower price,2011,Estate,"75,000 miles",1.6L,111BHP,Automatic,Petrol
+925,Vauxhall,"£2,699",Great price,2012,Hatchback,"86,907 miles",1.2L,84BHP,Manual,Petrol
+926,Volvo,"£1,500",,1998,Estate,"75,000 miles",2.5L,170BHP,Automatic,Petrol
+927,Nissan,"£8,980",Good price,2016,SUV,"135,000 miles",1.6L,130PS,Automatic,Diesel
+928,Volvo,"£3,489",Great price,2009,Coupe,"67,690 miles",1.6L,108BHP,Manual,Diesel
+929,Ford,"£2,277",,2009,Hatchback,"127,000 miles",1.8L,123BHP,Manual,Petrol
+930,Bmw,"£2,100",,1999,Convertible,"70,000 miles",2.0L,150BHP,Manual,Petrol
+931,Vauxhall,"£2,838",,2007,SUV,"66,000 miles",2.0L,150BHP,Automatic,Diesel
+932,Ford,"£6,250",,2014,Hatchback,"35,000 miles",1.6L,123BHP,Automatic,Petrol
+933,Audi,"£7,000",Higher price,2014,Hatchback,"108,300 miles",1.6L,104BHP,Manual,Diesel
+934,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+935,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+936,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+937,Nissan,"£5,995",Lower price,2015,Hatchback,"48,873 miles",1.5L,110PS,Manual,Diesel
+938,Renault,"£1,990",Fair price,2009,MPV,"93,000 miles",1.9L,130BHP,Manual,Diesel
+939,Toyota,"£3,990",Good price,2009,SUV,"92,000 miles",2.2L,134BHP,Manual,Diesel
+940,Renault,"£1,995",,2007,Hatchback,"69,000 miles",1.2L,100BHP,Manual,Petrol
+941,Volvo,"£6,750",Lower price,2013,Estate,"74,393 miles",1.6L,115BHP,Manual,Diesel
+942,Peugeot,"£3,480",Fair price,2011,Estate,"129,500 miles",1.6L,115BHP,Automatic,Diesel
+943,Audi,"£8,695",Great price,2012,Hatchback,"54,210 miles",2.0L,138BHP,Manual,Diesel
+944,Bmw,"£2,502",,2008,Saloon,"102,000 miles",2.0L,177BHP,Manual,Diesel
+945,Volkswagen,"£1,499",,2005,Hatchback,"157,000 miles",1.9L,103BHP,Automatic,Diesel
+946,Bmw,"£4,000",,2007,Coupe,"78,000 miles",2.0L,170BHP,Manual,Petrol
+947,Mercedes-Benz,"£20,990",Good price,2018,Estate,"11,442 miles",2.0L,184PS,Automatic,Petrol
+948,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+949,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,ULEZ,
+950,Bmw,"£12,900",Good price,2013,SUV,"61,502 miles",2.0L,184BHP,Automatic,Diesel
+951,Jaguar,"£3,000",,2008,Saloon,"210,636 miles",2.7L,204BHP,Automatic,Diesel
+952,Jaguar,"£15,000",Great price,2015,Saloon,"28,089 miles",2.2L,200BHP,Automatic,Diesel
+953,Smart,"£3,500",,2006,Hatchback,"77,800 miles",1.5L,177BHP,Manual,Petrol
+954,Saab,£909,,2007,Saloon,"180,000 miles",1.9L,150BHP,Automatic,Diesel
+955,Mini,"£2,650",,2006,Convertible,"64,408 miles",1.6L,90BHP,Manual,Petrol
+956,Nissan,"£5,495",Lower price,2014,Hatchback,"22,246 miles",1.2L,79BHP,Manual,Petrol
+957,Peugeot,£650,,2004,Hatchback,"158,000 miles",1.4L,67BHP,Manual,Diesel
+958,Hyundai,"£2,670",Fair price,2011,Hatchback,"89,000 miles",1.4L,98BHP,Manual,Petrol
+959,Volkswagen,"£10,480",Great price,2016,Hatchback,"27,000 miles",1.2L,89BHP,Automatic,Petrol
+960,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+961,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+962,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+963,Nissan,"£5,250",,2012,Hatchback,"27,365 miles",1.4L,Manual,Petrol,2 owners
+964,Jaguar,"£1,650",,2008,Saloon,"112,000 miles",2.0L,128BHP,Manual,Diesel
+965,Seat,"£1,590",Great price,2008,Hatchback,"84,000 miles",1.2L,63BHP,Manual,Petrol
+966,Citroen,"£2,490",Fair price,2008,Saloon,"85,000 miles",2.0L,138BHP,Manual,Diesel
+967,Peugeot,"£1,250",,2010,Hatchback,"108,770 miles",1.4L,68BHP,Manual,Diesel
+968,Ford,"£7,100",Great price,2015,Hatchback,"31,626 miles",1.0L,99BHP,Manual,Petrol
+969,Vauxhall,"£1,780",Great price,2008,MPV,"114,000 miles",1.9L,119BHP,Manual,Diesel
+970,Ford,"£6,887",Great price,2015,SUV,"54,000 miles",1.0L,123BHP,Manual,Petrol
+971,Ford,"£1,999",Good price,2006,Hatchback,"65,000 miles",1.4L,79BHP,Manual,Petrol
+972,Mercedes-Benz,"£12,699",Fair price,2013,Coupe,"57,971 miles",2.1L,204BHP,Automatic,Diesel
+973,Mercedes-Benz,"£26,990",Good price,2018,Estate,"13,203 miles",2.0L,194PS,Automatic,Diesel
+974,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+975,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+976,Mini,"£2,400",,2007,Hatchback,"83,300 miles",1.6L,175BHP,Manual,Petrol
+977,Mercedes-Benz,"£3,900",,2000,Convertible,"69,192 miles",3.2L,218BHP,Automatic,Petrol
+978,Honda,"£14,000",Good price,2017,Hatchback,"32,881 miles",1.5L,182PS,Manual,Petrol
+979,Vauxhall,"£3,250",Good price,2012,MPV,"96,500 miles",1.7L,123BHP,Manual,Diesel
+980,Peugeot,"£1,495",,2005,Hatchback,"49,351 miles",1.4L,75BHP,Manual,Petrol
+981,Nissan,"£3,680",Good price,2014,Hatchback,"64,982 miles",1.2L,79BHP,Manual,Petrol
+982,Ford,"£3,495",Higher price,2010,Hatchback,"83,000 miles",1.25L,81BHP,Manual,Petrol
+983,Seat,"£6,489",Lower price,2014,Hatchback,"32,100 miles",1.2L,104BHP,Manual,Petrol
+984,Ford,"£2,500",,2008,Hatchback,"73,000 miles",1.4L,94BHP,Manual,Petrol
+985,Mercedes-Benz,"£15,990",Good price,2015,Saloon,"56,000 miles",2.1L,170PS,Automatic,Diesel
+986,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+987,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+988,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+989,Volkswagen,"£1,690",Fair price,2007,Hatchback,"115,000 miles",1.2L,55BHP,Manual,Petrol
+990,Ford,£595,,2006,Hatchback,"80,526 miles",1.3L,69BHP,Manual,Petrol
+991,Peugeot,"£1,990",Fair price,2010,Hatchback,"114,000 miles",1.4L,68BHP,Manual,Diesel
+992,Mazda,"£5,490",Lower price,2013,Convertible,"95,000 miles",1.8L,124BHP,Manual,Petrol
+993,Ford,"£3,300",,2011,Hatchback,"79,000 miles",1.25L,81BHP,Manual,Petrol
+994,Toyota,"£1,560",,2005,Hatchback,"87,000 miles",1.6L,109BHP,Automatic,Petrol
+995,Ford,"£1,500",,1992,Hatchback,"46,252 miles",1.1L,53BHP,Manual,Petrol
+996,Ford,"£2,690",Great price,2009,Hatchback,"81,000 miles",2.0L,138BHP,Manual,Diesel
+997,Vauxhall,"£8,489",Great price,2017,Hatchback,"32,275 miles",1.6L,136PS,Manual,Diesel
+998,Land,"£6,995",Great price,2009,SUV,"155,000 miles",3.6L,272BHP,Automatic,Diesel
+999,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+1000,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+1001,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+1002,Renault,"£1,000",,2007,Hatchback,"154,000 miles",2.0L,150BHP,Manual,Diesel
+1003,Mercedes-Benz,"£9,989",Great price,2008,Convertible,"83,000 miles",3.5L,315BHP,Automatic,Petrol
+1004,Renault,"£2,800",Great price,2013,Hatchback,"76,911 miles",1.2L,75BHP,Manual,Petrol
+1005,Vauxhall,"£3,980",Good price,2014,Hatchback,"65,850 miles",1.0L,64BHP,Manual,Petrol
+1006,Vauxhall,"£3,750",,2010,Hatchback,"60,000 miles",1.4L,99BHP,Automatic,Petrol
+1007,Mercedes-Benz,"£6,395",Good price,2011,Estate,"102,534 miles",1.8L,156BHP,Manual,Petrol
+1008,Citroen,£999,,2006,MPV,"95,000 miles",1.6L,92BHP,Manual,Diesel
+1009,Chevrolet,"£4,250",Good price,2012,MPV,"75,000 miles",2.0L,161BHP,Automatic,Diesel
+1010,Ford,£989,,2003,Estate,"79,000 miles",1.6L,99BHP,Manual,Petrol
+1011,Ford,"£2,200",,2008,MPV,"66,000 miles",1.6L,99BHP,Manual,Petrol
+1012,Mercedes-Benz,"£20,990",Good price,2018,Estate,"11,442 miles",2.0L,184PS,Automatic,Petrol
+1013,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+1014,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,ULEZ,
+1015,Vauxhall,"£2,600",,2007,Hatchback,"52,000 miles",1.4L,89BHP,Automatic,Petrol
+1016,Audi,"£9,995",Higher price,2012,Estate,"105,000 miles",2.0L,175BHP,Automatic,Diesel
+1017,Peugeot,"£2,995",Lower price,2012,MPV,"118,000 miles",1.6L,112BHP,Manual,Diesel
+1018,Skoda,"£4,887",Good price,2011,Estate,"46,000 miles",1.6L,105BHP,Manual,Diesel
+1019,Toyota,"£6,999",Good price,2013,Estate,"60,000 miles",1.8L,147BHP,Manual,Petrol
+1020,Peugeot,"£3,480",Good price,2012,Hatchback,"90,300 miles",1.2L,82BHP,Manual,Petrol
+1021,Kia,"£4,280",Lower price,2014,Hatchback,"54,000 miles",1.4L,89BHP,Manual,Diesel
+1022,Volkswagen,"£2,950",,2009,Saloon,"59,400 miles",1.4L,123BHP,Manual,Petrol
+1023,Ford,"£5,777",Lower price,2015,Hatchback,"59,997 miles",1.0L,123BHP,Manual,Petrol
+1024,Ford,"£5,100",,2014,Hatchback,"59,500 miles",1.0L,99BHP,Manual,Petrol
+1025,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+1026,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,ULEZ,
+1027,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+1028,Mercedes-Benz,£990,,"
+
+CAT
+
+
+Write-off",2003 (52 reg),Saloon,"169,000 miles",2.1L,143BHP,Automatic
+1029,Kia,"£1,995",Good price,2009,Hatchback,"96,960 miles",2.0L,138BHP,Manual,Diesel
+1030,Kia,"£1,000",,2004,Hatchback,"67,959 miles",1.1L,64BHP,Manual,Petrol
+1031,Vauxhall,"£3,800",,"
+
+CAT
+
+
+Write-off",2015 (15 reg),Hatchback,"90,000 miles",2.0L,118BHP,Manual
+1032,Mazda,"£3,999",Lower price,2011,SUV,"82,604 miles",2.2L,170BHP,Manual,Diesel
+1033,Jaguar,"£2,490",Great price,2008,Estate,"115,000 miles",2.0L,128BHP,Manual,Diesel
+1034,Bmw,"£1,050",,2003,Hatchback,"178,000 miles",2.0L,150BHP,Automatic,Diesel
+1035,Bmw,"£2,995",,2004,SUV,"82,000 miles",2.5L,192BHP,Automatic,Petrol
+1036,Mazda2,"£4,195",Fair price,2013,Hatchback,"57,000 miles",1.3L,74BHP,Manual,Petrol
+1037,Daihatsu,"£1,490",,2004,SUV,"100,000 miles",1.3L,85BHP,Manual,Petrol
+1038,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+1039,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+1040,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+1041,Toyota,"£2,500",,2004,Hatchback,"127,724 miles",1.5L,76BHP,Automatic,Hybrid – Petrol/Electric
+1042,Renault,"£5,995",Great price,2014,Hatchback,"44,000 miles",1.5L,90BHP,Manual,Diesel
+1043,Jaguar,"£6,480",Good price,2013,Saloon,"139,600 miles",2.2L,197BHP,Automatic,Diesel
+1044,Honda,"£1,990",Fair price,2009,Hatchback,"131,000 miles",2.2L,138BHP,Manual,Diesel
+1045,Seat,"£3,500",,2012,Hatchback,"130,000 miles",2.0L,208BHP,Automatic,Petrol
+1046,Kia,"£2,500",Great price,2012,Hatchback,"110,000 miles",1.6L,113BHP,Manual,Diesel
+1047,Audi,"£5,980",Lower price,2012,Saloon,"103,200 miles",2.0L,148BHP,Automatic,Diesel
+1048,Suzuki,"£1,399",,"
+
+CAT
+
+
+Write-off",2006 (06 reg),Hatchback,"115,000 miles",1.5L,101BHP,Manual
+1049,Audi,"£6,250",,2013,Hatchback,"111,000 miles",2.0L,148BHP,Automatic,Diesel
+1050,Mazda,"£3,700",,2005,MPV,"165,500 miles",Automatic,Diesel,6 owners,
+1051,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+1052,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+1053,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,First year road tax included,Full manufacturer warranty
+1054,Vauxhall,"£2,095",Good price,2008,MPV,"78,000 miles",1.8L,138BHP,Manual,Petrol
+1055,Volkswagen,"£2,995",Great price,2009,Hatchback,"94,000 miles",1.4L,79BHP,Manual,Petrol
+1056,Skoda,£795,,2009,Estate,"140,825 miles",1.4L,80BHP,Manual,Diesel
+1057,Peugeot,"£1,450",,2005,Saloon,"114,000 miles",2.0L,136BHP,Manual,Diesel
+1058,Vauxhall,"£2,890",Great price,2012,Hatchback,"111,000 miles",1.4L,100PS,Manual,Petrol
+1059,Vauxhall,"£1,299",,2006,Hatchback,"53,000 miles",1.4L,89BHP,Manual,Petrol
+1060,Ford,"£1,795",Fair price,2007,Hatchback,"87,000 miles",1.6L,99BHP,Manual,Petrol
+1061,Peugeot,£800,,2005,Hatchback,"97,040 miles",2.0L,90BHP,Manual,Diesel
+1062,Subaru,"£1,000",,2003,Hatchback,"128,000 miles",2.0L,123BHP,Automatic,Petrol
+1063,Ford,"£1,295",,2009,Hatchback,"117,000 miles",1.6L,99BHP,Manual,Petrol
+1064,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+1065,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1066,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1067,Vauxhall,"£3,500",Great price,2012,Hatchback,"76,000 miles",1.2L,84BHP,Manual,Petrol
+1068,Ford,"£2,640",Great price,2009,Hatchback,"76,000 miles",1.6L,99BHP,Manual,Petrol
+1069,Vauxhall,"£3,900",,2013,MPV,"94,000 miles",2.0L,128BHP,Manual,Diesel
+1070,Vauxhall,"£3,795",Great price,2010,Hatchback,"44,714 miles",1.6L,115PS,Manual,Petrol
+1071,Seat,"£8,980",Lower price,2016,Hatchback,"28,700 miles",1.2L,108BHP,Manual,Petrol
+1072,Peugeot,"£5,750",Good price,2015,Hatchback,"30,000 miles",1.0L,68BHP,Manual,Petrol
+1073,Honda,"£2,189",,"
+
+CAT
+
+
+Write-off",2007 (57 reg),SUV,"114,000 miles",2.2L,138BHP,Manual
+1074,Toyota,"£3,500",,2009,Hatchback,"36,800 miles",1.33L,99BHP,Manual,Petrol
+1075,Mini,"£4,995",,2006,Hatchback,"48,500 miles",1.6L,170BHP,Manual,Petrol
+1076,Vauxhall,"£4,500",Fair price,2012,Hatchback,"63,493 miles",1.4L,100PS,Manual,Petrol
+1077,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+1078,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,First year road tax included,Full manufacturer warranty
+1079,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+1080,Vauxhall,"£1,200",,2008,Hatchback,"75,446 miles",1.9L,118BHP,Manual,Diesel
+1081,Honda,"£2,500",Fair price,2005,Hatchback,"85,844 miles",2.0L,158BHP,Manual,Petrol
+1082,Ford,"£2,290",Good price,2008,Hatchback,"129,000 miles",2.2L,173BHP,Manual,Diesel
+1083,Vauxhall,"£1,800",,"
+
+CAT
+
+
+Write-off",2009 (59 reg),MPV,"139,600 miles",1.6L,113BHP,Manual
+1084,Fiat,"£2,980",Fair price,2009,Hatchback,"96,350 miles",1.2L,69BHP,Manual,Petrol
+1085,Mini,"£1,295",,2002,Hatchback,"114,000 miles",1.6L,116BHP,Manual,Petrol
+1086,Audi,"£5,000",,"
+
+CAT
+
+
+Write-off",2013 (13 reg),Hatchback,"75,100 miles",2.0L,148BHP,Manual
+1087,Jeep,£900,,2003,SUV,"128,738 miles",2.5L,141BHP,Manual,Diesel
+1088,Alfa,"£2,199",,2006,Saloon,"91,650 miles",1.9L,160BHP,Manual,Petrol
+1089,Fiat,"£2,999",Good price,2009,Hatchback,"67,000 miles",1.2L,69BHP,Manual,Petrol
+1090,Mercedes-Benz,"£31,995",Good price,2019,Coupe,"8,352 miles",2.0L,194PS,Automatic,Diesel
+1091,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+1092,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+1093,Vauxhall,"£1,999",Lower price,2008,Hatchback,"55,000 miles",1.2L,80BHP,Manual,Petrol
+1094,Citroen,"£4,980",Great price,2013,Hatchback,"58,764 miles",1.6L,90BHP,Manual,Diesel
+1095,Vauxhall,"£2,880",Good price,2011,Hatchback,"116,500 miles",2.0L,160PS,Manual,Diesel
+1096,Austin,"£4,999",,1989,Saloon,"76,056 miles",1.0L,39BHP,Manual,Petrol
+1097,Kia,"£3,750",Good price,2011,Hatchback,"74,000 miles",1.4L,89BHP,Manual,Petrol
+1098,Kia,"£6,995",Good price,2015,Hatchback,"26,000 miles",1.4L,98BHP,Manual,Petrol
+1099,Citroen,£950,,2004,Hatchback,"66,633 miles",1.1L,60BHP,Manual,Petrol
+1100,Bmw,"£2,299",Great price,2010,Saloon,"166,000 miles",2.0L,163BHP,Manual,Diesel
+1101,Toyota,"£1,750",,2009,Hatchback,"100,000 miles",1.8L,127BHP,Manual,Petrol
+1102,Toyota,"£3,880",Good price,2011,Hatchback,"70,000 miles",1.33L,101BHP,Manual,Petrol
+1103,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+1104,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+1105,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+1106,Audi,"£4,800",Great price,2012,Hatchback,"93,037 miles",1.6L,104BHP,Manual,Diesel
+1107,Renault,"£1,500",,2010,Hatchback,"109,000 miles",1.5L,105BHP,Manual,Diesel
+1108,Bmw,"£3,500",,2007,Saloon,"116,234 miles",3.0L,197BHP,Manual,Diesel
+1109,Ford,"£2,750",,2010,Hatchback,"78,000 miles",1.25L,81BHP,Manual,Petrol
+1110,Honda,"£2,500",,2016,Coupe,"70,000 miles",2.0L,132BHP,Automatic,Petrol
+1111,Vauxhall,"£3,180",Good price,2011,Hatchback,"74,200 miles",1.0L,64BHP,Manual,Petrol
+1112,Honda,"£4,000",,2007,MPV,"101,900 miles",1.8L,138BHP,Automatic,Petrol
+1113,Nissan,"£7,000",Great price,2014,SUV,"53,882 miles",1.5L,109BHP,Manual,Diesel
+1114,Peugeot,"£7,000",,2015,Hatchback,"69,690 miles",1.6L,115BHP,Manual,Diesel
+1115,Smart,"£2,600",,2004,Convertible,"99,000 miles",0.7L,80BHP,Automatic,Petrol
+1116,Mercedes-Benz,"£23,990",Fair price,2018,Coupe,"14,116 miles",2.0L,184PS,Automatic,Petrol
+1117,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+1118,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+1119,Volkswagen,"£2,950",,2006,Hatchback,"62,485 miles",1.4L,74BHP,Manual,Petrol
+1120,Volkswagen,"£5,490",,2012,Hatchback,"38,187 miles",1.2L,59BHP,Manual,Petrol
+1121,Toyota,"£2,680",,2005,MPV,"171,700 miles",2.4L,154BHP,Automatic,Petrol
+1122,Vauxhall,"£2,842",,2010,Hatchback,"96,000 miles",1.6L,115PS,Manual,Petrol
+1123,Toyota,"£2,190",,2003,Hatchback,"29,814 miles",1.0L,67BHP,Manual,Petrol
+1124,Mercedes-Benz,"£8,390",,2012,Saloon,"78,704 miles",2.1L,175BHP,Automatic,Diesel
+1125,Bmw,"£2,980",,2010,Hatchback,"144,000 miles",2.0L,Manual,Diesel,3 owners
+1126,Audi,"£9,489",Good price,2013,Saloon,"130,000 miles",2.0L,175BHP,Automatic,Diesel
+1127,Fiat,"£3,800",,2016,Hatchback,"46,308 miles",1.2L,70PS,Manual,Petrol
+1128,Ford,£990,,2005,Hatchback,"133,000 miles",2.2L,153BHP,Manual,Diesel
+1129,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+1130,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1131,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+1132,Mini,"£7,495",Higher price,2012,SUV,"84,000 miles",1.6L,190BHP,Manual,Petrol
+1133,Audi,"£7,699",Fair price,2011,Coupe,"93,000 miles",2.0L,177BHP,Automatic,Petrol
+1134,Mg,"£1,650",,1999,Convertible,"55,000 miles",1.8L,143BHP,Manual,Petrol
+1135,Hyundai,"£1,499",,2006,SUV,"87,000 miles",2.0L,139BHP,Manual,Petrol
+1136,Bmw,"£3,695",Good price,2008,Saloon,"108,750 miles",2.0L,177BHP,Manual,Diesel
+1137,Volkswagen,"£3,980",,2003,SUV,"95,600 miles",3.2L,216BHP,Automatic,Petrol
+1138,Bmw,"£6,400",,2008,Coupe,"95,000 miles",3.0L,306BHP,Automatic,Petrol
+1139,Vauxhall,"£2,575",,2008,Hatchback,"55,000 miles",1.4L,89BHP,Manual,Petrol
+1140,Citroen,£700,,2002,MPV,"85,000 miles",1.8L,117BHP,Manual,Petrol
+1141,Chrysler,"£1,350",,2009,Saloon,"57,231 miles",2.0L,154BHP,Manual,Petrol
+1142,Mercedes-Benz,"£30,990",Good price,2019,Convertible,"6,940 miles",2.0L,258PS,Automatic,Petrol
+1143,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,ULEZ,
+1144,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,First year road tax included,Full manufacturer warranty
+1145,Volkswagen,"£2,399",,"
+
+CAT
+
+
+Write-off",2007 (57 reg),Hatchback,"61,600 miles",1.6L,113BHP,Manual
+1146,Lexus,"£4,000",,2006,SUV,"190,000 miles",3.3L,208BHP,Automatic,Hybrid – Petrol/Electric
+1147,Peugeot,"£5,980",Good price,2014,SUV,"76,000 miles",1.6L,115BHP,Automatic,Diesel
+1148,Honda,"£3,950",Fair price,2007,MPV,"89,000 miles",1.8L,138BHP,Automatic,Petrol
+1149,Mercedes-Benz,"£23,490",Great price,2018,Coupe,"21,501 miles",2.0L,258PS,Automatic,Petrol
+1150,Fiat,"£1,225",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"50,000 miles",1.1L,54BHP,Manual
+1151,Toyota,"£3,500",Lower price,2013,Hatchback,"60,200 miles",1.0L,67BHP,Manual,Petrol
+1152,Volkswagen,"£2,150",,2010,Saloon,"129,000 miles",2.0L,138BHP,Automatic,Diesel
+1153,Ford,"£3,280",Higher price,2010,Hatchback,"92,000 miles",1.6L,99BHP,Manual,Petrol
+1154,Lexus,"£1,500",,2007,Saloon,"156,000 miles",2.2L,175BHP,Manual,Diesel
+1155,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+1156,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1157,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,First year road tax included,Full manufacturer warranty
+1158,Honda,"£2,990",Great price,2008,Hatchback,"66,000 miles",1.4L,98BHP,Manual,Petrol
+1159,Mercedes-Benz,£999,,2005,Saloon,"180,000 miles",3.7L,245BHP,Automatic,Petrol
+1160,Vauxhall,"£1,750",,1998,Coupe,"89,800 miles",1.4L,89BHP,Manual,Petrol
+1161,Renault,"£1,190",,2005,Hatchback,"74,000 miles",1.2L,60BHP,Manual,Petrol
+1162,Audi,"£3,895",Great price,2007,Saloon,"103,000 miles",2.0L,168BHP,Manual,Diesel
+1163,Nissan,"£4,280",Great price,2013,Hatchback,"51,358 miles",1.2L,79BHP,Manual,Petrol
+1164,Ford,"£3,696",Great price,2011,Hatchback,"74,630 miles",1.6L,108BHP,Manual,Diesel
+1165,Volkswagen,£999,,2008,Estate,"91,000 miles",2.0L,138BHP,Manual,Diesel
+1166,Saab,"£1,250",,2004,Convertible,"136,000 miles",2.0L,150BHP,Manual,Petrol
+1167,Mercedes-Benz,"£4,450",,2007,SUV,"80,700 miles",3.5L,272BHP,Automatic,Petrol
+1168,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+1169,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1170,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+1171,Bmw,"£5,990",Lower price,2009,Saloon,"40,000 miles",2.0L,143BHP,Automatic,Diesel
+1172,Volkswagen,"£5,400",Good price,2010,Hatchback,"62,600 miles",1.4L,85BHP,Manual,Petrol
+1173,Lexus,"£3,980",Higher price,2006,SUV,"168,000 miles",3.3L,208BHP,Automatic,Hybrid – Petrol/Electric
+1174,Vauxhall,"£2,990",Fair price,2009,Hatchback,"82,500 miles",2.0L,158BHP,Manual,Diesel
+1175,Mercedes-Benz,"£2,590",,2007,Hatchback,"102,219 miles",1.5L,95BHP,Manual,Petrol
+1176,Audi,"£1,754",,2005,Coupe,"146,000 miles",1.8L,187BHP,Manual,Petrol
+1177,Vauxhall,"£3,995",Great price,2010,Hatchback,"60,000 miles",1.6L,115PS,Automatic,Petrol
+1178,Bmw,"£2,250",,1999,Convertible,"138,000 miles",2.8L,193BHP,Manual,Petrol
+1179,Ford,"£1,950",,1999,Hatchback,"39,000 miles",1.6L,89BHP,Manual,Petrol
+1180,Bmw,"£7,993",,2011,Saloon,"80,000 miles",2.0L,184BHP,Manual,Diesel
+1181,Mercedes-Benz,"£20,990",Good price,2018,Estate,"11,442 miles",2.0L,184PS,Automatic,Petrol
+1182,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,ULEZ,
+1183,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,First year road tax included,Full manufacturer warranty
+1184,Volkswagen,"£7,000",Good price,2013,Saloon,"63,789 miles",2.0L,138BHP,Manual,Diesel
+1185,Mitsubishi,"£1,495",,2006,Saloon,"87,000 miles",1.6L,96BHP,Manual,Petrol
+1186,Honda,"£2,200",,1999,Coupe,"31,000 miles",1.6L,103BHP,Automatic,Petrol
+1187,Vauxhall,"£2,552",,2011,Estate,"112,024 miles",1.6L,113BHP,Automatic,Petrol
+1188,Renault,"£1,095",,"
+
+CAT
+
+
+Write-off",2009 (09 reg),Hatchback,"75,000 miles",1.2L,100BHP,Manual
+1189,Citroen,"£4,750",Lower price,2014,Hatchback,"38,857 miles",1.0L,69PS,Manual,Petrol
+1190,Volkswagen,"£4,699",Good price,2010,Hatchback,"60,915 miles",1.4L,85BHP,Manual,Petrol
+1191,Volkswagen,"£3,700",,2012,Hatchback,"159,000 miles",1.6L,103BHP,Automatic,Diesel
+1192,Nissan,£850,,"
+
+CAT
+
+
+Write-off",2007 (56 reg),Hatchback,"100,700 miles",1.5L,85BHP,Manual
+1193,Bmw,"£14,599",Lower price,2017,SUV,"20,425 miles",2.0L,150BHP,Manual,Diesel
+1194,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+1195,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1196,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+1197,Land,"£2,500",,2002,SUV,"200,000 miles",2.0L,110BHP,Manual,Diesel
+1198,Vauxhall,£850,,2006,MPV,"131,524 miles",1.6L,103BHP,Manual,Petrol
+1199,Ford,"£7,995",Good price,2014,Hatchback,"72,000 miles",1.6L,180BHP,Manual,Petrol
+1200,Bmw,"£9,500",Good price,2015,Saloon,"103,000 miles",2.0L,163BHP,Automatic,Diesel
+1201,Citroen,"£1,640",,"
+
+CAT
+
+
+Write-off",2010 (59 reg),MPV,"86,540 miles",1.6L,92BHP,Manual
+1202,Ford,"£2,000",Fair price,2007,Hatchback,"88,504 miles",1.4L,67BHP,Manual,Diesel
+1203,Skoda,"£1,990",Higher price,2005,Hatchback,"88,000 miles",1.6L,115BHP,Manual,Petrol
+1204,Bmw,"£2,595",,2006,Hatchback,"99,175 miles",2.0L,150BHP,Automatic,Petrol
+1205,Bmw,"£12,400",Good price,2016,Saloon,"59,528 miles",2.0L,190BHP,Manual,Diesel
+1206,Lexus,"£6,995",Lower price,2012,Hatchback,"94,000 miles",1.8L,99BHP,Automatic,Hybrid – Petrol/Electric
+1207,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+1208,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+1209,Nissan,"
+RRP
+£21,460
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1210,Renault,"£1,599",,2009,Hatchback,"84,391 miles",1.2L,75BHP,Manual,Petrol
+1211,Lexus,"£1,490",,2003,Saloon,"122,000 miles",3.0L,218BHP,Automatic,Petrol
+1212,Mercedes-Benz,"£1,357",,2007,Saloon,"156,000 miles",2.1L,150BHP,Automatic,Diesel
+1213,Vauxhall,"£5,495",Great price,2016,Hatchback,"40,825 miles",1.4L,90PS,Manual,Petrol
+1214,Audi,"£8,999",Great price,2012,Coupe,"51,662 miles",1.8L,158BHP,Automatic,Petrol
+1215,Audi,"£3,000",Fair price,2008,Saloon,"148,000 miles",2.0L,138BHP,Manual,Diesel
+1216,Citroen,"£7,995",Lower price,2017,Hatchback,"37,886 miles",1.2L,110PS,Manual,Petrol
+1217,Mg,£970,,2004,Convertible,"53,000 miles",1.8L,134BHP,Manual,Petrol
+1218,Mercedes-Benz,"£8,799",Good price,2011,Estate,"71,000 miles",2.1L,168BHP,Automatic,Diesel
+1219,Hyundai,"£1,699",,2006,SUV,"177,000 miles",2.2L,155BHP,Manual,Diesel
+1220,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+1221,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel
+1222,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1223,Vauxhall,"£3,299",Fair price,2007,Convertible,"60,000 miles",1.8L,138BHP,Automatic,Petrol
+1224,Bmw,"£1,000",,1998,Saloon,"230,000 miles",2.8L,193BHP,Automatic,Petrol
+1225,Vauxhall,"£2,200",,2010,Hatchback,"127,000 miles",1.6L,115PS,Manual,Petrol
+1226,Peugeot,"£2,950",,"
+
+CAT
+
+
+Write-off",2013 (63 reg),Hatchback,"42,980 miles",1.2L,82BHP,Manual
+1227,Ford,"£1,993",Good price,2007,Hatchback,"65,016 miles",1.25L,74BHP,Manual,Petrol
+1228,Ford,"£2,500",,"
+
+CAT
+
+
+Write-off",2009 (09 reg),Hatchback,"74,962 miles",1.4L,94BHP,Manual
+1229,Jaguar,"£3,000",,2003,Saloon,"85,935 miles",4.2L,400BHP,Automatic,Petrol
+1230,Ford,"£8,480",Lower price,2016,MPV,"37,031 miles",1.5L,120PS,Manual,Diesel
+1231,Volkswagen,"£1,275",,2005,Hatchback,"123,200 miles",1.9L,103BHP,Manual,Diesel
+1232,Vauxhall,£500,,2006,Convertible,"81,470 miles",1.8L,123BHP,Manual,Petrol
+1233,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+1234,Nissan,"
+RRP
+£33,310
+",,SUV,1.7L,150BHP,Manual,Diesel,First year road tax included,Full manufacturer warranty
+1235,Nissan,"
+RRP
+£28,835
+",,SUV,1.6L,130BHP,Automatic,Diesel,ULEZ,
+1236,Citroen,"£6,500",,2015,Hatchback,"68,000 miles",1.6L,163BHP,Manual,Petrol
+1237,Vauxhall,"£1,990",Good price,2008,MPV,"81,000 miles",1.6L,113BHP,Manual,Petrol
+1238,Mercedes-Benz,"£2,295",,2006,Hatchback,"96,000 miles",1.7L,116BHP,Automatic,Petrol
+1239,Volkswagen,"£4,350",Good price,2013,Hatchback,"65,530 miles",1.0L,59BHP,Manual,Petrol
+1240,Toyota,"£2,400",,"
+
+CAT
+
+
+Write-off",2007 (56 reg),Hatchback,"120,000 miles",1.5L,76BHP,Automatic
+1241,Ford,"£1,295",,2006,Hatchback,"31,171 miles",1.3L,69BHP,Manual,Petrol
+1242,Volvo,"£4,995",Good price,2010,Estate,"91,000 miles",1.6L,113BHP,Manual,Diesel
+1243,Audi,"£6,989",Great price,2011,Saloon,"100,000 miles",2.0L,208BHP,Manual,Petrol
+1244,Audi,"£2,495",,2006,Hatchback,"90,000 miles",1.6L,113BHP,Manual,Petrol
+1245,Ford,"£6,900",Lower price,2016,Hatchback,"33,625 miles",1.5L,74BHP,Manual,Diesel
+1246,Mercedes-Benz,"£31,490",,2020,Coupe,"1,912 miles",1.3L,136PS,Automatic,Petrol
+1247,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+1248,Nissan,"
+RRP
+£14,930
+",,Hatchback,1.0L,100BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1249,Mazda3,"£1,289",,2007,Hatchback,"97,000 miles",1.6L,103BHP,Manual,Petrol
+1250,Toyota,"£4,250",Great price,2013,Hatchback,"20,243 miles",1.0L,67BHP,Manual,Petrol
+1251,Volkswagen,"£1,490",,2005,Hatchback,"130,000 miles",1.2L,65BHP,Manual,Petrol
+1252,Ford,"£1,595",,2005,Hatchback,"98,000 miles",2.0L,143BHP,Automatic,Petrol
+1253,Toyota,"£3,950",,2011,Hatchback,"65,145 miles",1.6L,130BHP,Manual,Petrol
+1254,Mercedes-Benz,"£4,850",,2009,Convertible,"86,500 miles",3.0L,231BHP,Automatic,Petrol
+1255,Vauxhall,"£4,500",,2007,Hatchback,"84,000 miles",2.8L,276BHP,Manual,Petrol
+1256,Ford,£695,,2004,Hatchback,"143,261 miles",1.4L,79BHP,Manual,Petrol
+1257,Mazda,"£4,295",Lower price,2009,Convertible,"87,500 miles",2.0L,158BHP,Manual,Petrol
+1258,Bmw,"£6,796",,2009,Convertible,"75,000 miles",3.0L,197BHP,Automatic,Diesel
+1259,Mercedes-Benz,"£35,490",Good price,2019,Coupe,"9,335 miles",3.0L,286PS,Automatic,Diesel
+1260,Nissan,"
+RRP
+£22,205
+",,SUV,1.0L,117BHP,Manual,Petrol,First year road tax included,Full manufacturer warranty
+1261,Nissan,"
+RRP
+£25,100
+",,SUV,1.2L,115BHP,Manual,Petrol,ULEZ,
+1262,Suzuki,"£11,999",Great price,2017,SUV,"14,834 miles",1.0L,111PS,Automatic,Petrol
+1263,Vauxhall,"£4,464",Good price,2013,Hatchback,"73,470 miles",1.2L,70PS,Manual,Petrol
+1264,Toyota,"£3,300",,2013,Hatchback,"53,000 miles",1.0L,67BHP,Manual,Petrol
+1265,Mazda2,"£1,995",,"
+
+CAT
+
+
+Write-off",2010 (10 reg),Hatchback,"67,000 miles",1.3L,85BHP,Manual
+1266,Ford,"£1,990",Fair price,2007,Hatchback,"108,000 miles",2.0L,143BHP,Manual,Petrol
+1267,Volkswagen,"£1,995",,2007,Hatchback,"166,595 miles",2.0L,138BHP,Manual,Diesel
+1268,Vauxhall,"£8,250",Good price,2017,Hatchback,"40,000 miles",1.0L,105PS,Manual,Petrol
+1269,Peugeot,"£2,885",Good price,2010,SUV,"89,419 miles",2.0L,150BHP,Manual,Diesel
+1270,Ford,"£2,000",,2009,Hatchback,"71,000 miles",1.8L,123BHP,Manual,Diesel
+1271,Audi,"£5,100",,2007,Coupe,"62,000 miles",2.0L,197BHP,Manual,Petrol
+1272,Mercedes-Benz,"£23,388",Higher price,2019,Hatchback,"14,724 miles",1.5L,116PS,Automatic,Diesel
+1273,Nissan,"
+RRP
+£26,570
+",,SUV,1.5L,115BHP,Automatic,Diesel,ULEZ,
+1274,Nissan,"
+RRP
+£15,355
+",,Hatchback,1.0L,100BHP,Manual,Petrol,ULEZ,
+1275,Toyota,"£6,500",,2012,Hatchback,"48,000 miles",1.8L,Automatic,Hybrid – Petrol/Electric,1 owner
+1276,Mercedes-Benz,"£1,480",,2003,Hatchback,"56,340 miles",1.4L,82BHP,Manual,Petrol
+1277,Vauxhall,"£6,995",,2018,Hatchback,"22,450 miles",1.4L,90PS,Manual,Petrol
+1278,Bmw,"£2,499",,2007,Saloon,"97,664 miles",2.0L,129BHP,Manual,Petrol
+1279,Peugeot,£995,,2008,Hatchback,"110,503 miles",1.6L,120BHP,Manual,Petrol
+1280,Audi,"£4,950",,2008,Coupe,"99,000 miles",2.7L,187BHP,Automatic,Diesel
+1281,Bmw,"£4,250",Good price,2007,Saloon,"113,100 miles",2.5L,177BHP,Automatic,Diesel
+1282,Honda,"£8,450",Great price,2010,SUV,"43,000 miles",2.0L,148BHP,Automatic,Petrol
+1283,Vauxhall,"£6,999",Fair price,2013,Coupe,"35,665 miles",2.0L,165PS,Automatic,Diesel
+1284,Vauxhall,"£2,489",Good price,2010,Hatchback,"94,499 miles",1.4L,99BHP,Manual,Petrol
+1285,Mercedes-Benz,"£28,990",Good price,2019,Coupe,"3,923 miles",2.0L,258PS,Automatic,Petrol
+1286,Nissan,"
+RRP
+£24,570
+",,SUV,1.3L,160BHP,Manual,Petrol,ULEZ,
+1287,Nissan,"
+RRP
+£27,730
+",,SUV,1.3L,160BHP,Automatic,Petrol,ULEZ,
+1288,Renault,"£4,895",,2013,Hatchback,"56,290 miles",1.2L,75BHP,Manual,Petrol
+1289,Vauxhall,"£2,700",,2008,Hatchback,"57,500 miles",1.4L,89BHP,Automatic,Petrol
+1290,Chevrolet,"£2,999",Good price,2013,Hatchback,"58,251 miles",1.2L,80BHP,Manual,Petrol
+1291,Ford,"£5,700",Good price,2013,Hatchback,"57,505 miles",1.0L,123BHP,Manual,Petrol
+1292,Jeep,"£4,250",,2000,SUV,"73,425 miles",2.5L,114BHP,Manual,Diesel
+1293,Seat,"£3,095",,2003,Hatchback,"98,700 miles",1.8L,222BHP,Manual,Petrol
+1294,Volkswagen,£850,,2005,MPV,"160,000 miles",1.6L,113BHP,Automatic,Petrol
+1295,Audi,"£3,495",,2007,Coupe,"112,000 miles",3.2L,247BHP,Automatic,Petrol
+1296,Bmw,"£11,600",Good price,2014,Saloon,"50,347 miles",2.0L,184BHP,Manual,Diesel
+1297,Nissan,"£12,999",Fair price,2015,SUV,"25,000 miles",1.2L,113BHP,Automatic,Petrol
+1298,Mercedes-Benz,"£25,188",Higher price,2016,Saloon,"21,036 miles",2.0L,194PS,Automatic,Diesel
+1299,Land,"£44,950",Good price,2017,SUV,"30,200 miles",3.0L,258PS,Automatic,Diesel

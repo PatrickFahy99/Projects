@@ -1,0 +1,54 @@
+set.seed(2)
+# Create and plot an ARIMA(1,1,1) model 
+x <- arima.sim(list(order = c(1,1,1), ar = 0.6, ma=-0.5), n = 1000)
+plot(x)
+
+# Fitting an ARIMA(1,1,1) model to this
+x.arima <- arima(x, order=c(1, 1, 1))
+x.arima
+
+# CI's for the coefficients
+0.6470 + c(-1.96, 1.96)*0.1065
+-0.5165 + c(-1.96, 1.96)*0.1189
+
+# Autocorrelation plot of the residuals
+acf(resid(x.arima))
+
+# Ljung-Box test on the residuals
+Box.test(resid(x.arima), lag=20, type="Ljung-Box")
+
+# We can see that the p-value is significantly larger than 0.05 and as such we can state that
+# there is strong evidence for discrete white noise being a good fit to the residuals. Thus the
+# ARIMA(1,1,1) model is a good fit as expected.
+
+# Financial Data:
+# We get stock price data for amazon and calculate the differenced log prices
+# Then fit an ARIMA model to this like we did in the ARMA case
+install.packages("forecast")
+library(forecast)
+require(quantmod)
+getSymbols("AMZN", from="2013-01-01")
+
+amzn = diff(log(Cl(AMZN)))
+
+azfinal.aic <- Inf
+azfinal.order <- c(0,0,0)
+for (p in 1:4) for (d in 0:1) for (q in 1:4) {
+  azcurrent.aic <- AIC(arima(amzn, order=c(p, d, q)))
+  if (azcurrent.aic < azfinal.aic) {
+    azfinal.aic <- azcurrent.aic
+    azfinal.order <- c(p, d, q)
+    azfinal.arima <- arima(amzn, order=azfinal.order)
+  }
+}
+
+azfinal.order
+
+acf(resid(azfinal.arima), na.action=na.omit)
+
+Box.test(resid(azfinal.arima), lag=20, type="Ljung-Box")
+# We get a p-value of ~0.01, this is small, so maybe the model isn't a good fit at all
+
+# Forecast the next 25 timesteps using this model
+plot(forecast(azfinal.arima, h=25))
+

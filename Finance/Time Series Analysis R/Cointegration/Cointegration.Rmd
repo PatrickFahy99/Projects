@@ -1,0 +1,51 @@
+# Creating a random walk
+set.seed(123)
+z <- rep(0, 1000)
+for (i in 2:1000) z[i] <- z[i-1] + rnorm(1)
+plot(z, type="l")
+
+# Plot the autocorrelation and the differenced autocorrelation
+layout(1:2)
+acf(z)
+acf(diff(z))
+
+# Create two new series derived from z
+x <- y <- rep(0, 1000)
+x <- 0.3*z + rnorm(1000)
+y <- 0.6*z + rnorm(1000)
+plot(x, type="l")
+plot(y, type="l")
+
+# Plot 2x-y and its autocorrelation, should be white noise
+comb <- 2*x - y
+plot(comb, type="l")
+acf(comb)
+# Looks stationary!
+
+# Fitting a linear regression model to find the ratio between x and y
+# Then using an Augmented Dickey-Fuller test to identify if the residuals are stationary
+comb2 = lm(x~y)
+comb2
+adf.test(comb2$residuals, k=1)
+# p-value is 0.01 so have evidence that can assume it is stationary
+
+# Let's use the Augmented Dickey Fuller test on comb:
+library("tseries")
+adf.test(comb)  
+# p-val is very small, so when have necessary information to reject the null hypothesis that the series possesses a unit root (i.e is not stationary)
+
+# Now Phillips-Perron test:
+pp.test(comb)
+# Nice, same outcome
+
+# Now the Phillips-Ouliaris test:
+po.test(cbind(2*x,-1.0*y))
+# Again what we want
+
+# Now try the same for a bad combination of x and y:
+badcomb <- -1.0*x + 2.0*y
+plot(badcomb, type="l")
+acf(diff(badcomb))
+adf.test(badcomb)
+# p-val is 0.39 so way above 0.05 so cant reject null hypothesis
+

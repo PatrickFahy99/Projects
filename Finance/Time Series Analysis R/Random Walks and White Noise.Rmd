@@ -1,23 +1,30 @@
+# Creating an autocorrelation plot of a sequence of randomaly generated Normal(0,1) rv's
 set.seed(1)
 acf(rnorm(1000))
 
-var(rnorm(1000, mean=0, sd=1))
-
+# Creating a random walk and plotting it
 w <- rnorm(1000)
 x <- replicate(1000, 0)
 for (t in 2:1000) x[t] <- x[t-1] + w[t]
 plot(x, type="l")
 
+# Plotting the autocorrelation for this sequence
 acf(x)
 
+# Plotting the autocorrelation for the difference in the terms of this sequence, note it is just white noise
 acf(diff(x)) # acf of the difference of subsequent terms in x
 
+# Get time series data for microsoft and visualise the last 5 rows
 require('quantmod')
 getSymbols('MSFT', src='yahoo')
 tail(MSFT)
 
+# Create an autocorrelation plot for the difference in terms
 acf(diff(Ad(MSFT)), na.action = na.omit) # Last bit says to omit missing values, also Ad is the adjusted returns
+# Note there are many points outside of the region bounded by the blue dashed lines, therefore the stock price seems to be more than a random walk
 
-getSymbols('^GSPC', src='yahoo')
-acf(diff(Ad(GSPC)), na.action = na.omit)
+# Performing and Augmented Dickey Fuller Test on the differenced series
+x <- diff(Ad(MSFT))
+adf.test(x)
+# p-value is very very large, so time series 'most likely' is non-stationary.
 

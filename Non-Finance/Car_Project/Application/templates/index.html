@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>Car Value Prediction</title>
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predict Car Value</div>
+
+    <form action="{{ url_for('predict')}}"method="post">
+     
+     <label for="cars">Choose a car make:</label>
+     <select name="Make" id="Make", required="required" />
+      <option value="Audi">Audi</option>
+      <option value="BMW">BMW</option>
+      <option value="Citroen">Citroen</option>
+      <option value="Fiat">Fiat</option>
+      <option value="Ford">Ford</option>
+      <option value="Honda">Honda</option>
+      <option value="Hyundai">Hyundai</option>
+      <option value="Jaguar">Jaguar</option>
+      <option value="Kia">Kia</option>
+      <option value="Land Rover">Land Rover</option>
+      <option value="Mazda">Mazda</option>
+      <option value="Mercedes-Benz">Mercedes-Benz</option>
+      <option value="Mitsubishi">Mitsubishi</option>
+      <option value="Mini">Mini</option>
+      <option value="Nissan">Nissan</option>
+      <option value="Peugeot">Peugeot</option>
+      <option value="Porsche">Porsche</option>
+      <option value="Renault">Renault</option>
+      <option value="Skoda">Skoda</option>
+      <option value="Suzuki">Suzuki</option>
+      <option value="Toyota">Toyota</option>
+      <option value="Vauxhall">Vauxhall</option>
+      <option value="Volkswagen">Volkswagen</option>
+      <option value="Volvo">Volvo</option>
+     </select>
+     <br><br>
+
+     <label for="litres">Year:</label>
+     <input type="number" name="year" placeholder="Year" min="1980" max="2020" required="required" />
+     <br><br>
+
+     <label for="Type">Choose a car type:</label>
+		 <select name="typ" id="typ", required="required">
+      <option value="Convertible">Convertible</option>
+      <option value="Coupe">Coupe</option>
+      <option value="Estate">Estate</option>
+      <option value="Hatchback">Hatchback</option>
+      <option value="Limousine">Limousine</option>
+      <option value="MPV">MPV</option>
+      <option value="Pickup">Pickup</option>
+      <option value="SUV">SUV</option>
+      <option value="Saloon">Saloon</option>
+    </select>
+    <br><br>
+
+     <label for="litres">Miles:</label>
+     <input type="number" name="miles" placeholder="Miles" required="required" />
+     <br><br>
+
+     <label for="litres">Litres:</label>
+     <input type="text" name="litres" placeholder="Litres" required="required" />
+     <br><br>
+
+     <label for="bhp">BHP:</label>
+     <input type="text" name="bhp" placeholder="BHP" required="required" />
+     <br><br>
+
+     <label for="Transmission">Choose a transmission type:</label>
+     <select name="Transmission" id="Transmission", required="required">
+      <option value="Manual">Manual</option>
+      <option value="Automatic">Automatic</option>
+     </select>
+     <br><br>
+
+     <label for="Fuel">Choose a fuel type:</label>
+     <select name="fuel" id="fuel", required="required">
+      <option value="Diesel">Diesel</option>
+      <option value="Petrol">Petrol</option>
+      <option value="Hybrid">Hybrid</option>
+     </select>
+     <br><br>
+
+     <label for="owners">Owners:</label>
+     <input type="number" name="owners" placeholder="Owners" />
+     <br><br>
+
+     <label for="ULEZ">Does your car have an Ultra Low Emission Zone (ULEZ) charge?:</label>
+     <select name="ULEZ" id="ULEZ">
+      <option value="Yes">Yes</option>
+      <option value="No">No</option>
+     </select>
+     <br><br>
+
+     <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
